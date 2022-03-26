@@ -12,6 +12,7 @@ from typing import List
 
 import uvicorn
 from fastapi import Depends, FastAPI, HTTPException
+from mangum import Mangum
 from fastapi.middleware.cors import CORSMiddleware
 from sqlalchemy.orm import Session
 
@@ -35,7 +36,11 @@ from database import SessionLocal, engine
 
 models.Base.metadata.create_all(bind=engine)
 
-app = FastAPI()
+stage = os.environ.get('STAGE', None)
+openapi_prefix = f"/{stage}" if stage else "/"
+app = FastAPI(title="MyAwesomeApp", openapi_prefix=openapi_prefix) # Here is the magic
+# app = FastAPI()
+handler = Mangum(app)
 
 origins = ["*"]
 
