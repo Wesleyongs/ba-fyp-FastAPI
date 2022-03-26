@@ -1,0 +1,1435 @@
+Customer ID,Name,Email,Customer Current Value,Days Since Last Purchase,Purchase Frequency,Total Lifetime Revenue
+3035411677227,Carol,Mscarol_1986gal@hotmail.com,High-Value,0,12,794.64
+3087346991147,Loh,jauntyjes@yahoo.com.sg,High-Value,45,5,589.41
+5057667334187,Christina,limchristina05@gmail.com,High-Value,54,6,936.5
+3858306105387,Min Min,m2mtay@gmail.com,High-Value,76,5,1145.54
+5169714888747,Angeline,angypoon@gmail.com,High-Value,79,6,1027.09
+5026206646315,Min Li,lauminli@gmail.com,High-Value,92,6,1067.52
+5074673926187,Feronika,feronika.chandra@gmail.com,High-Value,179,6,622.1
+5168391192619,Eileen,scorgittarius85@yahoo.com.sg,High-Value,194,4,524.3399999999999
+3067937914923,Jing,jyanlim@gmail.com,High-Value,208,4,769.1
+3837210099755,Veralyn,v_v_cheng@hotmail.com,High-Value,223,6,551.31
+3841476657195,Lynn,lynnpang12@hotmail.com,High-Value,268,5,907.5999999999999
+3971739058219,Donna,yonglf@yahoo.com,High-Value,286,6,805.3199999999999
+3956101120043,Kailing,limkaileng@yahoo.com.sg,High-Value,288,6,678.7
+3934247813163,Ren Feng,tan_renfeng@hotmail.com,High-Value,289,7,1050.8500000000001
+3955750305835,Sandy,ng_siewteng@hotmail.com,Mid-Value,364,4,720.84
+5287166410795,Yee Ling,n.yeeling@ymail.com,High-Value,39,3,534.6
+5032431747115,Chai Bee,odd78ball@yahoo.com.sg,High-Value,63,3,785.22
+5264125952043,Weiwei,vweiweige@gmail.com,High-Value,91,3,579.1099999999999
+3979292311595,Jasmine,jasmine.chuaxueli@gmail.com,High-Value,94,3,547.6
+5171771998251,Joyce,joyce2979@yahoo.com,High-Value,94,3,529.3
+3093782954027,Weiling,yuan_weiling@hotmail.com,High-Value,125,2,523.5
+5213704290347,Sammi ,sammipek@yahoo.com,Mid-Value,192,3,973.9000000000001
+5220952145963,TT,ting2lee@gmail.com,Mid-Value,202,3,561.0
+5100992331819,Carrie,carriechee@gmail.com,Mid-Value,248,2,773.85
+5039146401835,Katherine,celinelee81@yahoo.com.sg,Mid-Value,274,3,519.85
+5060178018347,Cuiyun,cuiyun_jess@hotmail.com,Mid-Value,299,3,773.48
+3964248293419,Diana,dianaliu5780@gmail.com,Mid-Value,329,3,764.73
+3142127583275,Candy,zbb_83@yahoo.com,Mid-Value,356,3,581.4200000000001
+3153838669867,Irene,irenelschua@gmail.com,Mid-Value,378,3,711.3
+3859209715755,Kellie,kelliewong@yahoo.com,Mid-Value,415,3,545.65
+3810740535339,Hwee Yee ,huiyi_11@hotmail.com,Low-Value,497,1,620.0
+5458321276971,Selby,selbyteocw@gmail.com,High-Value,10,5,299.9
+5459857309739,Jeannie,jeannieneo@gmail.com,High-Value,23,4,427.5
+3873750614059,Yean Ching,beechernthern@gmail.com,High-Value,33,4,271.5
+3836262154283,Qiuhui,evillynho@gmail.com,High-Value,119,4,359.05
+5036857229355,joey,joquim21@gmail.com,Mid-Value,176,4,421.5
+3180136169515,Cher yan ,ziyan3982@gmail.com,Mid-Value,186,6,443.96000000000004
+5042586189867,Joyee ,joyeetoh@msn.com,Mid-Value,238,4,402.92
+5057753153579,Sarah,sarah_tlc@yahoo.com.sg,Mid-Value,251,4,369.44
+5099391615019,Su Mon,sumonsoenyunt.lovely@gmail.com,Mid-Value,262,4,292.5
+3080209956907,serene,serenesoh1972@gmail.com,Mid-Value,268,6,271.7
+5096177664043,Gwen,gwenlsf@gmail.com,Mid-Value,280,4,350.5
+5066235215915,Irene,No Email,Mid-Value,299,4,451.43
+3945851355179,Susan ,yingxuan_lim@yahoo.com,Mid-Value,345,4,461.20000000000005
+3073119911979,Alysse,alyssesaw@gmail.com,Mid-Value,531,4,250.3
+5513523888171,Brina,aisu_hime@hotmail.com,Mid-Value,0,2,330.0
+5513499410475,Patricia,scpek@yahoo.com.sg,Mid-Value,0,2,317.0
+5344090882091,Kathleen,kathleen.kaijia@gmail.com,Mid-Value,0,3,222.9
+5503892291627,Lim,wendylimmm@yahoo.com.sg,Mid-Value,0,2,220.0
+5502763368491,Serene,Gacktsys@gmail.com,Mid-Value,3,2,199.0
+5394576146475,Katrina,ckatrinajana@yahoo.com,Mid-Value,3,2,177.0
+3851724881963,Lycia,lyciatyy@gmail.com,Mid-Value,5,2,203.5
+5490621153323,Wee Nee,weenee90@gmail.com,Mid-Value,8,2,299.4
+3823728853035,Florence,florencegwee@hotmail.com,Mid-Value,30,2,249.84
+3057515462699,Velle,velletoh1986@gmail.com,Mid-Value,30,2,226.8
+5436007219243,Niccole,No Email,Mid-Value,34,2,197.0
+3786200023083,Candy,candysaw85@gmail.com,Mid-Value,42,3,393.40000000000003
+5255281803307,Hweejie,hweejie.ong@live.com,Mid-Value,46,2,187.6
+5184002981931,Jeanette,jeanette.tan@hotmail.com,Mid-Value,53,2,335.64
+5437690675243,Flora,luv.orion@gmail.com,Mid-Value,58,2,243.34
+5099794235435,Mun Ling,contactmunling@gmail.com,Mid-Value,65,3,214.81
+3967560384555,G,eclm0305@gmail.com,Mid-Value,73,2,305.02
+5224144764971,Elizabeth,elizabethh-@hotmail.com,Mid-Value,80,2,171.8
+5073615388715,Hannah,henalenah@hotmail.com,Mid-Value,81,2,255.74
+5349106253867,Eileen,eileen_gyl@live.com.sg,Mid-Value,82,3,381.51
+3151273459755,Sherin ,yoshijunov@yahoo.com,Mid-Value,93,2,297.0
+3212464226347,Jaslin,jaslin.snowflakes@gmail.com,Mid-Value,93,2,304.41999999999996
+5255220723755,Cadence,dence1981@hotmail.co.uk,Mid-Value,107,3,247.5
+3909842010155,Peng Peng,gnepgnep@gmail.com,Mid-Value,130,2,345.2
+3819922554923,YA TING,yatingbeginning@gmail.com,Mid-Value,130,2,185.93
+5187423240235,Gek Khim,gekkhim17@gmail.com,Mid-Value,153,2,213.70000000000002
+5247706988587,JUNE,james008_sg@yahoo.com.sg,Mid-Value,177,2,281.3
+3840191660075,Shihui,aowshihui@hotmail.com,Mid-Value,179,3,438.29999999999995
+5226846421035,Alice,alice_tham81@hotmail.com,Mid-Value,183,2,287.8
+5218915123243,Rain,kristellechow@hotmail.com,Mid-Value,193,2,191.8
+5110712139819,Valerie,wolflet@wolflet.sg,Mid-Value,194,3,452.78
+5085376970795,Shella,shella.muchtar@gmail.com,Mid-Value,198,2,204.6
+5231879323691,Xinyi,xyelyse@hotmail.com,Mid-Value,200,3,388.5
+3827308167211,ZHUANG,kzyahui@gmail.com,Mid-Value,202,2,352.5
+5061250908203,Jowis,jowis.sijia@gmail.com,Mid-Value,208,2,283.5
+5219690479659,YEO ,yeo_kianhwee@yahoo.com,Mid-Value,214,2,192.6
+5220838473771,Zhenyi,leechenee@hotmail.com,Mid-Value,215,3,182.2
+5217202077739,Audrey,audrey_tkw@msn.com,Mid-Value,216,2,199.8
+5189431197739,Devona,devona10@yahoo.com,Mid-Value,218,3,416.24
+5205886500907,Jahiza,jahiza-@live.com,Mid-Value,226,2,329.6
+5110711975979,Emily,emilytge555@gmail.com,Mid-Value,232,2,318.70000000000005
+5025219379243,Kellin,kellinchewpico@gmail.com,Mid-Value,234,3,291.6
+3819687313451,Dranice,dranicetay@gmail.com,Mid-Value,237,2,203.0
+5038593703979,Amanda ,amaryllisaw@gmail.com,Mid-Value,241,2,177.8
+5184038338603,Lai May,wailaimay@gmail.com,Mid-Value,251,2,330.52
+5127439253547,Cecilia,cecilia8atwork@gmail.com,Mid-Value,251,2,187.82
+5026035957803,Choy Y,chowjanice13@gmail.com,Mid-Value,251,2,364.25
+5137484775467,Isadora,i.xadore@hotmail.com,Mid-Value,252,3,410.23
+5063772405803,Kelly,blah-blah-blah-s@hotmail.com,Mid-Value,252,2,218.24
+5056411926571,Wei ling,tanweiling1989@hotmail.com,Mid-Value,252,2,240.74
+5069138329643,Lynn,lynn_teo@hotmail.com,Mid-Value,254,2,351.15999999999997
+5121733689387,Mike,kathleen1604@gmail.com,Mid-Value,256,2,424.97
+3749007392811,Ngee Wei,ngeeweiq@gmail.com,Mid-Value,258,2,372.79999999999995
+3976381595691,Estelle,estelle_rui@yahoo.com.sg,Mid-Value,259,2,259.64
+3821085786155,Lin,xiao_piggy1983@yahoo.com.sg,Mid-Value,267,3,434.40000000000003
+3769807470635,Charlene,tancharl17@gmail.com,Mid-Value,267,2,239.6
+3960505106475,Jiayi,jiayi.khoh@hotmail.com,Mid-Value,279,2,290.21000000000004
+5096388788267,Michelle,michelle_chan_kw@hotmail.com,Mid-Value,283,2,219.60000000000002
+3935242747947,Juvena,juvenatan@yahoo.com,Mid-Value,283,3,230.70000000000002
+5071446671403,Chia,chiaweiling.sg@gmail.com,Mid-Value,296,2,272.4
+5065728032811,Rachelle,rachelle.tjhin@gmail.com,Mid-Value,300,2,194.54999999999998
+3892505149483,Erica,yuyun_13@hotmail.com,Mid-Value,304,2,267.93
+5028597235755,Carine,carinez1@gmail.com,Mid-Value,307,2,191.8
+5066809245739,Ushnisha,only1.leaf@gmail.com,Mid-Value,308,2,258.23
+5057623425067,Beverly,beverlyng_1108@hotmail.com,Mid-Value,311,2,184.4
+5061208408107,Ginny,ginnypowsh@gmail.com,Mid-Value,321,2,373.38
+5029593415723,Jaime,jaimeliao@gmail.com,Mid-Value,325,2,224.22000000000003
+5022806540331,Ling ting,lt_fila@hotmail.com,Mid-Value,328,2,323.52
+3832428232747,Karen,purplekbt2000@yahoo.com.sg,Mid-Value,328,2,177.4
+5041788190763,Holly,hollywukeer@gmail.com,Mid-Value,329,2,238.23000000000002
+5045183086635,Alice,No Email,Mid-Value,331,2,172.7
+3956055932971,Evelyn,madgirlgirl@hotmail.com,Mid-Value,331,2,234.8
+3972733042731,Stella ,cstella89114@gmail.com,Mid-Value,332,2,312.6
+5041546133547,Licia,yaplicia@gmail.com,Mid-Value,332,2,364.4
+5040290627627,Serene,yaohuiyi@gmail.com,Mid-Value,337,2,188.7
+5036327403563,Joanne,joannecarina@gmail.com,Mid-Value,340,2,308.70000000000005
+5040582197291,Waffle,wongwyee@hotmail.com,Mid-Value,340,2,218.9
+5048563793963,megan,meganzhangyy@gmail.com,Mid-Value,344,2,225.60000000000002
+3974238666795,Jingyi,lee-jingyi@hotmail.com,Mid-Value,350,2,192.8
+5026210021419,Grace,snorewhite@hotmail.com,Mid-Value,352,2,239.70000000000002
+5036395954219,Kayley,No Email,Mid-Value,354,2,225.8
+3956192444459,Katherine,katherinelau@live.com,Mid-Value,355,2,222.8
+3976808103979,Hong,kireihui@hotmail.com,Mid-Value,359,2,319.6
+3140400742443,Cheryl,euphoria098@hotmail.com,Mid-Value,359,2,224.3
+3884772524075,Kaiwei,kaiwei33@gmail.com,Mid-Value,365,3,456.03
+3971179675691,Fiona,fionfwen@gmail.com,Mid-Value,369,3,274.6
+3183562063915,Chris,ching091082@yahoo.com.sg,Mid-Value,371,2,249.8
+3850251108395,Namrata,kamagian@gmail.com,Mid-Value,372,2,411.4
+3814664077355,Jevonn,jevonnrasan@gmail.com,Mid-Value,374,2,181.70000000000002
+3952470261803,Chai Ling,chailing_86@yahoo.com.sg,Mid-Value,376,2,310.3
+3092181024811,Samantha,leejiamin.jm@gmail.com,Mid-Value,381,2,427.5
+3074393014315,Lin,lin8400@gmail.com,Mid-Value,384,3,423.12
+3809321910315,Jericia,jericia.s@gmail.com,Mid-Value,387,2,188.6
+3917139705899,Lauryn,cheezylauryn@hotmail.com,Mid-Value,392,2,439.46000000000004
+3166926438443,Jin Haw,lijinhaw@gmail.com,Mid-Value,397,3,176.70000000000002
+3166634704939,Lee ,sharon.kknm@gmail.com,Mid-Value,404,2,410.9
+3913629368363,Crystal,cltcrystal@gmail.com,Mid-Value,406,2,278.74
+3876462952491,Humaira,brillahermoso@gmail.com,Mid-Value,407,2,224.58
+3132619554859,Eunice,eunicel0vex@gmail.com,Mid-Value,412,2,174.8
+3830051799083,Rouhui,inkeyleerouhui@gmail.com,Mid-Value,412,2,178.7
+3900922036267,Esther ,estherjung22@gmail.com,Mid-Value,416,2,250.63
+3829916500011,HUI SHAN,hscheh.1991@gmail.com,Mid-Value,418,2,199.03
+3896152555563,Pamela,jqpam1808@gmail.com,Mid-Value,419,3,372.1
+3910789857323,Corrine,kikii02@hotmail.com,Mid-Value,424,2,331.86
+3809076838443,Dawnn,dawnnleeyl@gmail.com,Mid-Value,428,2,292.5
+3864953749547,Yan Ting,tanishayeo@gmail.com,Mid-Value,430,2,283.3
+3812665950251,Ting,xueting_18@yahoo.com,Mid-Value,430,2,271.81
+3839973949483,ShuTing,clover_1257@hotmail.com,Mid-Value,441,2,250.14999999999998
+3846260719659,Felicia,feliciaong_lingling@yahoo.com.sg,Mid-Value,442,2,281.84999999999997
+3857927012395,Michelle,yujing82@yahoo.com,Mid-Value,446,2,292.15
+3846395232299,Cheryl,cheryl.limjx@gmail.com,Mid-Value,450,2,183.7
+3035364196395,sue,sue_wsk@yahoo.com,Mid-Value,451,2,209.70000000000002
+3827653017643,Kelly,sabrinasakura@gmail.com,Mid-Value,452,3,379.58000000000004
+3125187117099,Claudia,claudiashan@gmail.com,Mid-Value,452,3,305.8
+3796976173099,Charlene,char_wong27@hotmail.com,Mid-Value,453,3,272.52
+3829869412395,Sandra,bluewish08@yahoo.com,Mid-Value,454,2,175.72
+3179829100587,Ally,iare.ally@hotmail.com,Mid-Value,458,2,318.43
+3836364488747,Serene,jingyun04@yahoo.com.sg,Low-Value,463,2,369.52
+3819841552427,celia,carebear_sh@hotmail.com,Low-Value,466,2,188.6
+3837392257067,Cindy,teo_cin@hotmail.com,Low-Value,473,2,177.71
+3180240175147,Soon,shenn_soon@yahoo.com.sg,Low-Value,473,2,197.7
+3213597638699,Pearly,pearlyseldon@gmail.com,Low-Value,480,2,193.72000000000003
+3098113146923,Zaidah,zaidah2408@gmail.com,Low-Value,481,2,345.32
+3825588633643,Eileen,eileen.ly@hotmail.com,Low-Value,481,2,239.2
+3815502970923,Diana,dianalinky@gmail.com,Low-Value,482,2,271.5
+3803869282347,Peilin,peilin_81@hotmail.com,Low-Value,483,2,191.82
+3810887041067,Celine,celineyen@hotmail.com,Low-Value,488,2,243.02999999999997
+3146495262763,Alice,aliceleeang@yahoo.com.sg,Low-Value,491,2,232.14000000000001
+3035305443371,Joey,joeysgp@gmail.com,Low-Value,491,2,210.91
+3141767364651,Jacqueline,jacqqq@gmail.com,Low-Value,492,2,249.60000000000002
+3772381134891,Marlene,marlenetan@gmail.com,Low-Value,494,2,207.7
+3807878119467,Rachel,seraphgem@hotmail.com,Low-Value,495,2,287.2
+3206883803179,SHEN,elaine.ylshen@gmail.com,Low-Value,499,2,178.68
+3752702836779,Rachel,rachel_zhong@live.com,Low-Value,504,2,269.48
+3058970951723,Rachel,rachwen@gmail.com,Low-Value,513,2,213.3
+3762952372267,Salley,salleysim@yahoo.com.sg,Low-Value,513,2,206.51999999999998
+3069630578731,Phyllis,phyllistan3@gmail.com,Low-Value,514,2,197.5
+3180172804139,Siting,tansiting@hotmail.com,Low-Value,523,2,252.7
+3154818826283,Jasmine,liewjas@hotmail.com,Low-Value,525,3,271.4
+3747268296747,Raynee,angela.anqichew@gmail.com,Low-Value,526,2,176.8
+3087450898475,Jasmine,fong.jas@gmail.com,Low-Value,526,2,287.18
+3148480348203,Jessie,jessiequek@hotmail.com,Low-Value,537,2,203.04
+3067911569451,Valerie,val_8666@hotmail.com,Low-Value,544,2,309.1
+3144941338667,Femi,spreetw@yahoo.com.sg,Low-Value,556,3,196.7
+3136961708075,Yiping,yipinggg@hotmail.com,Low-Value,559,3,179.01999999999998
+3088202039339,Pamela ,pamelalohml@gmail.com,Low-Value,565,2,210.72000000000003
+3094103031851,Yee Lin,limyeelin@hotmail.com,Low-Value,566,2,225.74
+3090328125483,Lezlie,lezliescreation@gmail.com,Low-Value,566,2,218.82
+3089152180267,JL,jan56tofu@gmail.com,Low-Value,569,2,194.42000000000002
+3067938668587,Evelyn,eevell@live.com,Low-Value,588,2,239.70000000000002
+5513499803691,Cynthia,cynthia.ong@hotmail.com,Mid-Value,0,1,300.0
+5476383621163,Li Qi,venus_lab@hotmail.com,Mid-Value,30,1,198.0
+5467268644907,Kandy,kandy.nguyen@live.com,Mid-Value,39,1,351.8
+5458910806059,Annie,anniek0306@gmail.com,Mid-Value,43,1,180.9
+5448184430635,Poh Eng,fion.geokteng87@hotmail.com,Mid-Value,53,1,199.7
+5432765055019,Jamie,bluepebble@hotmail.com,Mid-Value,68,1,276.71
+5424331522091,wei wei,kyleneang@gmail.com,Mid-Value,74,1,202.63
+5407575277611,Cherry,cherry-crystal1995@hotmail.com,Mid-Value,75,1,202.23
+5415944388651,FU LIN,cheesenutmeg@gmail.com,Mid-Value,78,1,190.81
+5392085975083,Alicia,No Email,Mid-Value,93,1,174.0
+5391227486251,Florence,florence_zhuang@hotmail.com,Mid-Value,94,1,177.0
+5362330140715,Phang Ten Ten,tentenphang@gmail.com,Mid-Value,116,1,189.0
+5346390573099,Belle,belle_chua97@hotmail.com,Mid-Value,130,1,197.73
+5344291455019,Yvonne Else,yvonne.else@gmail.com,Mid-Value,131,1,179.8
+5328956817451,Kristen,yustercus.accidit@gmail.com,Mid-Value,133,1,224.7
+5327130460203,Juve,juveee92@gmail.com,Mid-Value,133,1,185.6
+5314984902699,Yingying,c_yingying_11@hotmail.com,Mid-Value,135,1,214.9
+5274289471531,Rainnie,peiling2103@gmail.com,Mid-Value,163,1,182.6
+5266270257195,Carine,soonbobby@yahoo.com.sg,Mid-Value,172,1,188.8
+5265850236971,Aleanor,aleanor.tan@icloud.com,Mid-Value,173,1,229.6
+5240959664171,Cheryl,cherylkjm@gmail.com,Mid-Value,198,1,185.7
+5240605409323,Jessica,jesslhp@hotmail.com,Mid-Value,198,1,239.6
+5233876500523,Christine ,ctlin6.ct@gmail.com,Mid-Value,204,1,209.6
+5226750705707,Yin Teng,hooyinteng@hotmail.com,Mid-Value,211,1,235.5
+5224141357099,Camille,leowcfeng@hotmail.com,Mid-Value,214,1,241.5
+5208134058027,Shu,shufen89@hotmail.com,Mid-Value,227,1,179.6
+5203700351019,Sabrina,sabrinalimys@yahoo.com,Mid-Value,232,1,270.54
+5184006586411,Synthia,synthialml@gmail.com,Mid-Value,234,1,173.8
+5186516549675,Larry,dr_scythe@hotmail.com,Mid-Value,249,1,188.9
+5184776831019,Joann,joanngwendolynmikaela@gmail.com,Mid-Value,251,1,209.74
+5088836288555,Wendy,wen_dy@msn.com,Mid-Value,252,1,207.76
+5183873482795,Valerie,valeriec77@yahoo.com.sg,Mid-Value,252,1,211.16
+5183723503659,Rachael,thewailingwhale@gmail.com,Mid-Value,252,1,189.75
+5166363050027,Peggy,strawmato.jieyi@gmail.com,Mid-Value,256,1,406.35
+5101395738667,Noelle,noelle.yeo@gmail.com,Mid-Value,259,1,224.76
+5164846612523,Jasmine,jasminegohpeiling@gmail.com,Mid-Value,266,1,179.8
+5165261062187,Wing Ki,funkiefrostie@gmail.com,Mid-Value,271,1,189.7
+5142509879339,Desiree,geminipuppies@hotmail.com,Mid-Value,276,1,189.8
+5129236447275,Shu Yi,wsy_comb@hotmail.com,Mid-Value,281,1,179.6
+5097298690091,Regina,rezziegeegee@gmail.com,Mid-Value,301,1,209.7
+5093253152811,Moon,moonaw15@gmail.com,Mid-Value,306,1,349.6
+5089555972139,Rachel,racheology@hotmail.com,Mid-Value,309,1,229.7
+5079077224491,Camilla,leowcfang@hotmail.com,Mid-Value,318,1,319.5
+5073605099563,Ellette,thphle91@gmail.com,Low-Value,322,1,182.25
+5073404428331,Reine,reinesoh@gmail.com,Low-Value,322,1,211.5
+3836468265003,Rachel,racsg2000@yahoo.com.sg,Low-Value,328,1,203.75
+5066202054699,Nikki,paper_dollix@yahoo.com,Low-Value,329,1,203.75
+5060607803435,Janet,bibikhang@yahoo.com,Low-Value,334,1,183.7
+5058873262123,Judy,ko_one_lame@hotmail.com,Low-Value,336,1,269.7
+5057468760107,Sze Tein,teinne@hotmail.com,Low-Value,337,1,203.72
+5037050331179,Jasmine,jasminelee961@gmail.com,Low-Value,354,1,216.62
+5032516026411,Linda,ltsc77@hotmail.com,Low-Value,358,1,277.7
+5031778385963,Clarabelle,clarabellechaw@gmail.com,Low-Value,359,1,219.7
+5029210226731,Lynn,lynnyangliling@yahoo.com.sg,Low-Value,361,1,202.7
+3965544071211,Carol,lorac_totoro@hotmail.com,Low-Value,371,1,179.8
+3974042845227,Jocelyn,harukaling@gmail.com,Low-Value,376,1,190.62
+3967694667819,Ivy,ishloft@hotmail.com,Low-Value,382,1,205.4
+3958591356971,Tiffany,chiki1428@gmail.com,Low-Value,390,1,300.0
+3956027097131,Sandra,iwakawasan86@gmail.com,Low-Value,392,1,265.6
+3948000542763,Crista,cjicruz@gmail.com,Low-Value,398,1,185.06
+3935481266219,Peishan,peishanchew@gmail.com,Low-Value,409,1,189.8
+3931044479019,Cheryl,qing_91@hotmail.com,Low-Value,413,1,179.7
+3922060935211,Jamie,qmonghan@gmail.com,Low-Value,420,1,184.6
+3919956246571,Kim,kim.quek@gmail.com,Low-Value,422,1,299.7
+3841931739179,Geraldine,s85suya@yahoo.com.sg,Low-Value,423,1,216.5
+3839229460523,Jocelyn,jocelyna84@yahoo.com.sg,Low-Value,423,1,231.23
+3919154020395,Celia,celia_1128@yahoo.com.sg,Low-Value,423,1,188.73
+3914777395243,Yu,howyujie@yahoo.com.sg,Low-Value,427,1,450.88
+3911197556779,Izabel,izabelng99@gmail.com,Low-Value,431,1,253.3
+3910799294507,Jen Ling,chongjenling96@gmail.com,Low-Value,431,1,171.82
+3905285586987,Lorrene,fadders_starryz@hotmail.com,Low-Value,436,1,254.63
+3901644505131,Sola,sola.seah@gmail.com,Low-Value,439,1,332.63
+3894251126827,SHEENA,sheena@laflur.co,Low-Value,443,1,372.65
+3892548927531,Rachael,chew_rachael@hotmail.com,Low-Value,444,1,183.96
+3881789816875,Kristine,kristine.wg@hotmail.com,Low-Value,447,1,283.66
+3850265428011,JASLYN,jas.tfl@gmail.com,Low-Value,447,1,203.52
+3877956091947,Qiumei,qiu_mei56@hotmail.com,Low-Value,450,1,241.73
+3881824059435,carine,shufen84@hotmail.com,Low-Value,450,1,471.83
+3880361394219,Lee,lwanling@gmail.com,Low-Value,451,1,323.46
+3876049354795,yanyan,yanyan010105@gmail.com,Low-Value,453,1,244.13
+3868880896043,Tricia,tricia.nyr@hotmail.com,Low-Value,456,1,232.0
+3857493426219,Marion,mng2607@hotmail.com,Low-Value,461,1,219.9
+3851592597547,Elynda,elyndaleow@hotmail.com,Low-Value,465,1,180.6
+3846644629547,Rozita,gnurmy@hotmail.com,Low-Value,469,1,216.6
+3841569947691,Grace,graciie.21@gmail.com,Low-Value,473,1,193.42
+3839010439211,Yvonne,yvondinga@hotmail.com,Low-Value,473,1,228.82
+3837283696683,Michelle,michelleckx@gmail.com,Low-Value,474,1,251.86
+3837523755051,Lynn,lynnact@gmail.com,Low-Value,475,1,215.81
+3836175712299,Miko,candiesbar@gmail.com,Low-Value,476,1,186.54
+3836584099883,Eliz,elizloo@yahoo.com.sg,Low-Value,477,1,209.73
+3828625113131,Chris,missy.chrissng@gmail.com,Low-Value,477,1,264.73
+3828995260459,Yan Ru,yanru_joey@hotmail.com,Low-Value,483,1,177.5
+3802060980267,Chien Wan,t-chienwan@hotmail.com,Low-Value,502,1,325.3
+3798243278891,Crystal,crystallizexxx@gmail.com,Low-Value,505,1,357.44
+3774250516523,Winston,winston.yongwei@gmail.com,Low-Value,517,1,264.7
+3750302416939,Wee Lian,adnaplian@gmail.com,Low-Value,527,1,295.6
+3748635148331,valene,valenelin@yahoo.com.sg,Low-Value,528,1,249.8
+3178134896683,Gwendolyn,gwenlrm@gmail.com,Low-Value,551,1,203.6
+3173000544299,MAY,maysagit@hotmail.com,Low-Value,554,1,343.7
+3152001728555,Sam,adoresam@gmail.com,Low-Value,566,1,272.48
+3151928754219,Hazel ,hazeltsy@yahoo.com,Low-Value,566,1,249.36
+3143851671595,Keely,keelyshon@live.com.sg,Low-Value,571,1,254.5
+3117144703019,Gael,gaelsoon@gmail.com,Low-Value,587,1,259.8
+3114164977707,Min Yong,my.ng@hotmail.com,Low-Value,589,1,199.7
+3061304524843,Joanne,ho.joanne@yahoo.com.sg,Low-Value,618,1,245.8
+3890040078379,Camilly,camilly.gan@gmail.com,High-Value,219,7,1460.58
+3055680225323,Neo,hweepinneo@gmail.com,High-Value,3,18,2392.4
+3206458179627,Lim,karenlimlh@yahoo.com.sg,High-Value,243,26,2063.12
+5510641188907,Kristine,yeowyuling@gmail.com,Mid-Value,0,2,162.0
+3206522503211,Joyce,joycelee1010@hotmail.com,Mid-Value,2,2,110.0
+5510641647659,Yvonne,yvonne.kyn@hotmail.com,Mid-Value,3,2,55.0
+3148312477739,Nur,Nurhajar1989@gmail.com,Mid-Value,3,2,127.32
+3809196671019,Esther,onghc81@hotmail.com,Mid-Value,3,2,148.9
+3886150615083,Glynnis,glywork@yahoo.com.sg,Mid-Value,5,2,120.0
+5391025373227,Ng,klmoh168@gmail.com,Mid-Value,9,2,154.0
+3176709161003,Seline,wesleyispro@gmail.com,Mid-Value,10,3,120.0
+5048629723179,Sherry See Thou,sherry.seethou@gmail.com,Mid-Value,10,2,157.8
+5231861792811,Ming Li,minglipek@yahoo.com,Mid-Value,58,2,110.81
+3187093831723,Larissa ,larissa_fong@hotmail.com,Mid-Value,62,2,122.0
+5430872342571,Chai Yee,chaiyee6192@gmail.com,Mid-Value,64,2,106.82
+3933169877035,Phyllis,blessingling@yahoo.com,Mid-Value,69,2,102.2
+3798636003371,Ong,onghq84@msn.com,Mid-Value,72,3,154.6
+5202616614955,Wan Lin,ongwanlin@gmail.com,Mid-Value,80,2,112.81
+5266043764779,Dennis,mohd_hazril@hotmail.com,Mid-Value,81,2,53.8
+5267011272747,Jeankt,No Email,Mid-Value,88,2,116.9
+5390948630571,Yu Ying,lyyyuying@gmail.com,Mid-Value,93,2,99.0
+5363111034923,Aine,aineabd76@gmail.com,Mid-Value,93,2,141.0
+3979663474731,Sharon ,snowyhan0520@gmail.com,Mid-Value,93,2,58.9
+5362291540011,Wen Xuan,wenxuan_93@hotmail.com,Mid-Value,93,2,83.0
+5362281971755,noelle,noelletan05@gmail.com,Mid-Value,94,2,55.0
+3059594362923,Amanda,asqy@hotmail.sg,Mid-Value,122,3,169.2
+5279063867435,Huey Min,evlyong98@hotmail.com,Mid-Value,129,2,154.7
+5240159567915,Edeline,edeline.lim@live.com.sg,Mid-Value,138,3,165.62
+5289178300459,Adeline Yi Min,neoyimin@gmail.com,Mid-Value,144,2,150.8
+3147999051819,Louisa,ohllyxa@gmail.com,Mid-Value,208,2,111.22
+3151396732971,Jing xian,khjingxian@gmail.com,Mid-Value,212,2,114.62
+5095909490731,xan,abottleofstars@gmail.com,Mid-Value,219,2,52.9
+3840269123627,Gui Xian,jenaquek@gmail.com,Mid-Value,224,3,131.7
+5184574816299,Debbie,debbie_thng_2@hotmail.com,Mid-Value,226,2,68.87
+5026364588075,Jing Yee,esthysm@gmail.com,Mid-Value,238,2,79.82
+5186417459243,,masrina_samsi@yahoo.com.sg,Mid-Value,248,2,167.2
+5184018513963,Jerica,jericalpq@yahoo.com.sg,Mid-Value,251,2,143.84
+5173649539115,Germaine,germaine_koh1976@yahoo.com.sg,Mid-Value,251,2,132.74
+3807951880235,Cheryl,cheryllynnrajan@gmail.com,Mid-Value,252,2,110.82
+5175371726891,Lim,lynnlim19@yahoo.com.sg,Mid-Value,253,2,84.34
+5088566149163,Candice,candicemslin85@gmail.com,Mid-Value,261,2,110.32
+5044856782891,Clara,No Email,Mid-Value,263,3,163.7
+5141092630571,Kitty,fairykitz@hotmail.com,Mid-Value,264,2,164.04000000000002
+3829958770731,Joyce,pitcher009@hotmail.com,Mid-Value,264,2,127.64
+3966233542699,Akemi,ririyoyo111@gmail.com,Mid-Value,265,2,127.72
+3799778623531,Judy,judywoo77@gmail.com,Mid-Value,277,2,127.80000000000001
+5132559646763,Sharon,No Email,Mid-Value,281,2,58.84
+5119562055723,Michele,annelise_mic@hotmail.com,Mid-Value,281,2,131.57
+3126767681579,Yew,yxueling@yahoo.com.sg,Mid-Value,286,2,146.31
+5113886670891,Isabel,No Email,Mid-Value,289,2,107.8
+3751566540843,lee,strwbry_rene@yahoo.com.sg,Mid-Value,289,2,143.8
+5057637646379,Karen,No Email,Mid-Value,293,2,167.7
+5105922867243,Sinyi,No Email,Mid-Value,297,3,133.7
+5086136860715,Constance,constanceaneo@gmail.com,Mid-Value,311,2,37.9
+5071827927083,Christina,No Email,Low-Value,324,2,124.63999999999999
+3087623520299,Cecilia,ahying84@yahoo.com.sg,Low-Value,330,2,113.80000000000001
+3818446192683,Li Ru,liru_88@hotmail.com,Low-Value,332,2,147.8
+5048857690155,Summer,ppippi3@yahoo.com,Low-Value,341,2,167.8
+3871426314283,Lyynn,cllslam10@gmail.com,Low-Value,343,2,116.9
+3854489059371,Sher lynn,sherlynnboo@gmail.com,Low-Value,347,2,143.7
+5043591577643,Aysha,ayshaong2288@gmail.com,Low-Value,347,2,94.8
+3069547872299,Eleanor,eleanorneo@hotmail.com,Low-Value,351,2,161.8
+3793799905323,Justina,just.jus87@gmail.com,Low-Value,358,2,118.75
+3890778472491,Sarifah,sarifah_tamsir@moe.edu.sg,Low-Value,361,2,151.9
+3752174321707,Brenda ,brendalim83@hotmail.com,Low-Value,365,2,103.8
+3841923973163,Sara,xstarxinle@gmail.com,Low-Value,367,2,101.81
+3951680487467,Beatrice,beatricepangsy@gmail.com,Low-Value,375,2,137.8
+3940635869227,Abby,abby_pohshiying@hotmail.com,Low-Value,381,2,167.62
+3952652779563,noelle,chewbaccat96@gmail.com,Low-Value,388,2,167.8
+3948971261995,Sim,samantha_spr@hotmail.com,Low-Value,393,2,103.80000000000001
+3812894179371,Hernanie,hernanie87@gmail.com,Low-Value,397,2,142.7
+3854605451307,Serene,serene_khor@yahoo.com,Low-Value,414,2,92.8
+3151246065707,Jamie,jamiebay1801@yahoo.com.sg,Low-Value,439,2,167.82
+3037371236395,Sharon,jueping76@gmail.com,Low-Value,440,2,66.8
+3841788608555,Linda,linda_ykl@yahoo.com.sg,Low-Value,441,2,84.8
+3835291893803,Hui Ling,huiling_lee89@yahoo.com.sg,Low-Value,443,2,98.8
+3887634513963,lim,tricialim2109@gmail.com,Low-Value,446,2,68.8
+3828731969579,Nicola,workwithnwmz@hotmail.com,Low-Value,448,2,109.42999999999999
+3804020080683,Wendy,shirely87@gmail.com,Low-Value,449,2,69.82
+3146577870891,Priscilla,pris_liuqin@hotmail.com,Low-Value,451,2,168.34
+3151137603627,Joanna,joannaatan.91@gmail.com,Low-Value,456,2,106.82
+3831529963563,Juanita,jm_hamraoui@yahoo.com,Low-Value,465,2,61.82
+3826422284331,Jessica,jessicaongjy@gmail.com,Low-Value,467,2,139.7
+3147297652779,Jacqueline,jacqueng83@gmail.com,Low-Value,473,3,135.85
+3841872035883,Vanessa,cm08051985@gmail.com,Low-Value,473,2,133.22
+3809442791467,ANGEL,angellee1228@hotmail.com,Low-Value,489,3,67.9
+3054452408363,Kiara,limkiara@hotmail.com,Low-Value,490,2,90.19999999999999
+3140344873003,Tan,ecloud103002@gmail.com,Low-Value,502,2,122.80000000000001
+3798690136107,Harine,harinejagates@gmail.com,Low-Value,505,2,55.84
+3207685832747,Janna,jannachayys@gmail.com,Low-Value,524,2,165.08
+3180549701675,Yann,yann_85@hotmail.com,Low-Value,534,3,149.68
+3185880137771,Winnie,seahwinnie16@gmail.com,Low-Value,543,2,87.8
+3144931475499,Angela,angelaang76@yahoo.com,Low-Value,547,3,131.9
+3100716433451,Elinda,etaypl@outlook.com,Low-Value,557,2,95.9
+3140657283115,Hazel,hazel_fen@hotmail.com,Low-Value,564,2,67.9
+3092194263083,YL,yongling.beh@gmail.com,Low-Value,568,2,141.82
+3043031187499,Gracia,graciachew2000@gmail.com,Low-Value,568,2,147.12
+3091905249323,Huimin,valen76@hotmail.sg,Low-Value,569,2,149.58
+3100168323115,Meiting,meiloc20@yahoo.com.sg,Low-Value,570,2,153.8
+3142252658731,Esther,esthertan8740412@gmail.com,Low-Value,572,2,92.80000000000001
+3078368297003,Sabrina,ilyaelysa@gmail.com,Low-Value,578,2,147.5
+3088194895915,Gladys ,jessicalrl@hotmail.com,Low-Value,604,2,147.8
+5513499901995,Bernice,chelsette@gmail.com,Mid-Value,0,1,109.0
+5513499738155,Jermaine,jermz05@msn.com,Mid-Value,0,1,120.0
+5513499705387,Ye,jiawenny@gmail.com,Mid-Value,0,1,156.0
+5513499639851,-,Kkum.dreams@gmail.com,Mid-Value,0,1,78.0
+5513499574315,Jerica,Jericaang@gmail.com,Mid-Value,0,1,127.0
+5513499508779,Diana,dianatan_971@hotmail.com,Mid-Value,0,1,78.0
+5513499476011,Lim,y0ke@hotmail.com,Mid-Value,0,1,98.0
+5513499443243,Chuang,c_taurusd@yahoo.com.sg,Mid-Value,0,1,156.0
+5512306589739,Jean,jean_goh1982@hotmail.com,Mid-Value,1,1,59.9
+5511743045675,Sharon,yqlsharon@gmail.com,Mid-Value,2,1,43.9
+5511287537707,Bernice,Emmychels@gmail.com,Mid-Value,2,1,75.0
+5511287504939,June,jonshim316@gmail.com,Mid-Value,2,1,60.0
+5510641385515,Zhang,zhang_huijuan2002@hotmail.com,Mid-Value,3,1,35.0
+5510641319979,Rinn,ringees@gmail.com,Mid-Value,3,1,40.0
+5510276612139,,Inlmkha@hotmail.com,Mid-Value,3,1,60.0
+5507594059819,Clare,clareding@yahoo.com.sg,Mid-Value,5,1,43.9
+5506180644907,Crystal ,csshey@gmail.com,Mid-Value,5,1,149.8
+5507211821099,Pauline,pauline.tan.py@gmail.com,Mid-Value,6,1,43.9
+5506137063467,Jie Lin,lin_89_211@hotmail.com,Mid-Value,6,1,129.8
+5452451774507,Irene,sharonlaychen@gmail.com,Mid-Value,8,1,110.0
+5504212271147,Sarah,sarahdaniellewong@hotmail.com,Mid-Value,9,1,83.8
+5406032035883,Mi,mimisoe100@gmail.com,Mid-Value,9,1,29.0
+5503892324395,Audrey,audreyong65@gmail.com,Mid-Value,9,1,60.0
+5502721490987,Anna,aiwong@yahoo.com.sg,Mid-Value,10,1,43.9
+5456638771243,Joyce,joyce.koh@traart.com,Mid-Value,11,1,136.0
+5501475586091,Shirleen ,shirleen.yap@hotmail.com,Mid-Value,11,1,94.0
+5501340385323,Alicia,sashabear_37@yahoo.com,Mid-Value,11,1,119.7
+5501133815851,Miranda ,miranda.nicolette@gmail.com,Mid-Value,12,1,83.8
+5500798926891,,leesoori@hotmail.com,Mid-Value,12,1,69.9
+5499912224811,Sharon,shoopie99@gmail.com,Mid-Value,12,1,43.9
+5499244609579,Vanessa Denise,iamdenisefoo@gmail.com,Mid-Value,12,1,83.8
+5499161837611,Elizabeth ,elizabethtanpy@gmail.com,Mid-Value,13,1,119.7
+5498261700651,Martin,dlijahgoh@gmail.com,Mid-Value,13,1,93.9
+5497430212651,Rene,xinzac@gmail.com,Mid-Value,14,1,74.9
+5496764465195,Jasmine,jaslyf@gmail.com,Mid-Value,15,1,83.9
+3814405537835,Celine,celinelm11@gmail.com,Mid-Value,15,1,63.9
+5495608836139,Chii Sy,sooncs0910@gmail.com,Mid-Value,16,1,83.9
+5494454026283,Casy ,c_ang@ymail.com,Mid-Value,17,1,4.0
+5485408190507,Polly,polly.lily76@gmail.com,Mid-Value,19,1,49.9
+5480419459115,Adeline,ade_low@hotmail.com,Mid-Value,20,1,128.9
+5487825059883,Angela,carina_lim@hotmail.com,Mid-Value,21,1,33.9
+5487797043243,Fonx,fonxlim@hotmail.com,Mid-Value,21,1,33.9
+5482388095019,Angella,angella_sah@hotmail.com,Mid-Value,24,1,107.9
+5480042299435,Julie,majork_julie@yahoo.com,Mid-Value,26,1,114.8
+5478906855467,Ching Shu hui,lindachingsh@gmail.com,Mid-Value,27,1,130.0
+5473647591467,Cai wei ,caiwei140@gmail.com,Mid-Value,33,1,60.0
+5473447247915,Kristyn,kristynpng@gmail.com,Mid-Value,33,1,147.9
+5473367457835,Marianne ,mariannenar@gmail.com,Mid-Value,33,1,115.0
+5471534219307,Serene,zshiling@gmail.com,Mid-Value,35,1,119.7
+5469589536811,Joey ,joeyongly91@gmail.com,Mid-Value,37,1,44.0
+5071715237931,Lee,xling-@hotmail.com,Mid-Value,38,1,107.8
+3819941167147,Jia Yi,jia_yi@msn.com,Mid-Value,38,1,29.9
+5467266121771,Karinda,happy_lynn_89@hotmail.com,Mid-Value,39,1,62.0
+5460574371883,Angela,chronicleeternal@hotmail.com,Mid-Value,41,1,160.0
+5460572504107,Jean ,jeanliu94@gmail.com,Mid-Value,41,1,48.0
+5459585990699,Chew,jychew21393@gmail.com,Mid-Value,43,1,62.0
+5455878094891,,charlottzqy@outlook.com,Mid-Value,46,1,39.0
+5455872655403,,feichen777@gmail.com,Mid-Value,46,1,39.0
+5455504867371,Louisa,louisalmy@gmail.com,Mid-Value,46,1,39.0
+5452516032555,Joey,joey-wsh@hotmail.com,Mid-Value,49,1,53.9
+5451720359979,Everly,everlytoribio@gmail.com,Mid-Value,50,1,138.9
+5449945120811,charlene,charleneng995@gmail.com,Mid-Value,50,1,53.9
+5450854563883,Iriana ,irilim@yahoo.com.sg,Mid-Value,51,1,92.0
+5448244396075,Jennifer teo ,jenniferteo2909@gmail.com,Mid-Value,53,1,92.0
+5448087961643,Lina ,ameowz@hotmail.com,Mid-Value,53,1,63.8
+5444158423083,Maeve,juggle_me@hotmail.com,Mid-Value,57,1,103.9
+5442548400171,Pei Ling,peiling.ng.10@gmail.com,Mid-Value,59,1,66.91
+5437632380971,Li Ting,litingtan@ymail.com,Mid-Value,63,1,125.73
+5436943106091,Teresa,sayteng510@gmail.com,Mid-Value,64,1,45.31
+5436934127659,Vanessa,vanessa6382@hotmail.com,Mid-Value,64,1,116.91
+5431590551595,clarabelle ,chongchengyi.clarabelle@gmail.com,Mid-Value,69,1,33.9
+5428761428011,Melissa,taxmelissa01@gmail.com,Mid-Value,71,1,66.91
+5427347390507,Joyce,joycetanyj@gmail.com,Mid-Value,72,1,107.64
+5426556338219,Joey,joeytoh91@yahoo.com.sg,Mid-Value,72,1,57.91
+5425311809579,Jean,jn_camayra@yahoo.com.sg,Mid-Value,73,1,90.13
+5425530830891,SERENE,cheongserene@hotmail.com,Mid-Value,73,1,54.31
+5425479188523,Shimy,shimy_1986@yahoo.com,Mid-Value,73,1,107.64
+5418623008811,Bernice,bernicelimsp@hotmail.com,Mid-Value,76,1,30.91
+5418112352299,Trishelle,joycelyn.cws@yahoo.com,Mid-Value,77,1,39.91
+5417491333163,Ashley,ashley_tia@hotmail.com,Mid-Value,77,1,160.11
+5415107461163,Ng,peizicpz@gmail.com,Mid-Value,79,1,57.91
+5414449053739,Grace,gorgeousgrace@gmail.com,Mid-Value,79,1,112.81
+5412983472171,Mandy,neominerx@gmail.com,Mid-Value,80,1,30.91
+3904013238315,Sharon,mommycatz72@gmail.com,Mid-Value,82,1,57.91
+5406552817707,Hoe,silver_titan@hotmail.com,Mid-Value,85,1,57.91
+5406366007339,Claudia,No Email,Mid-Value,85,1,45.0
+5403982921771,Deborah,deborahchanminyi98@gmail.com,Mid-Value,87,1,63.9
+5403251114027,Winifred,winifredweegn@gmail.com,Mid-Value,87,1,51.0
+5399908188203,Loreen,No Email,Mid-Value,89,1,100.0
+5398226206763,Jasmine,jazhui2210@gmail.com,Mid-Value,90,1,66.82
+5396484653099,Eve,evecheong36@yahoo.com,Mid-Value,91,1,161.46
+5396318322731,David,biddo14@gmail.com,Mid-Value,91,1,53.9
+5392383836203,Yuly,yulyhoney@hotmail.com,Mid-Value,93,1,40.0
+5392100622379,Jolene,jolenecys@gmail.com,Mid-Value,93,1,24.0
+5392070377515,Grace,grc_sim@hotmail.com,Mid-Value,93,1,104.0
+3834102284331,Cheryl,wongwong.03@hotmail.com,Mid-Value,93,1,94.0
+3146883399723,Sabina,piscesgal2@hotmail.com,Mid-Value,93,1,40.0
+5391953690667,Ericia,tlxericia@gmail.com,Mid-Value,93,1,69.0
+5391645704235,Sarah Zainal,nsarahzainal@gmail.com,Mid-Value,94,1,54.0
+5391282110507,Cheryl,cherylisabel04@gmail.com,Mid-Value,94,1,138.0
+5391266152491,Kelene ,kelenetsj@gmail.com,Mid-Value,94,1,122.0
+3968916062251,Vera,veelim85@gmail.com,Mid-Value,94,1,109.0
+5391040249899,Elaine,sourlove35@yahoo.com,Mid-Value,94,1,103.0
+5391030321195,Catherine,poohfc0210@yahoo.com.sg,Mid-Value,94,1,55.0
+5390954037291,Clariis,jinningsoon@gmail.com,Mid-Value,94,1,169.8
+5390936014891,Jenny,jensny11@hotmail.com,Mid-Value,94,1,39.0
+5390931296299,Shanee,shanee.jseolye@gmail.com,Mid-Value,94,1,19.0
+3964463808555,Wee teng,weewee_18@hotmail.com,Mid-Value,94,1,39.0
+5387928797227,Yann,babydollichi@gmail.com,Mid-Value,96,1,93.9
+5380194697259,Amanda,shxmin_97@hotmail.com,Mid-Value,102,1,68.9
+5377499332651,Jie En,jieen_neeij@hotmail.com,Mid-Value,103,1,25.0
+5376153780267,Grace,shinegracematter@gmail.com,Mid-Value,104,1,139.7
+5375089868843,Lynn,bridget.xie@gmail.com,Mid-Value,105,1,33.9
+5373990469675,Janet,janetkhoo.rsn@gmail.com,Mid-Value,106,1,149.8
+5372847587371,Aliff,aliff.ahmad.safety@gmail.com,Mid-Value,107,1,68.8
+5372082618411,Shweta,shwetakhanduja77@gmail.com,Mid-Value,108,1,83.9
+5364231831595,Kent ,kentlim12323243245@gmail.com,Mid-Value,111,1,34.0
+5364234289195,Pinkyuanny,lynnie_lam@yahoo.com.sg,Mid-Value,114,1,39.9
+5363263242283,Jean,jean_lee120@outlook.com,Mid-Value,115,1,149.8
+5363130138667,Grace,dwdefedf@gmail.com,Mid-Value,115,1,39.9
+5363118964779,Wong ,seowbin@yahoo.com,Mid-Value,115,1,130.0
+5194283253803,Hillary,boey.weilinghillary@gmail.com,Mid-Value,115,1,43.9
+5363100680235,Jeanna,jsch@hotmail.com,Mid-Value,115,1,29.0
+5362343575595,Katherine ,junqiqi@gmail.com,Mid-Value,116,1,58.8
+5274282721323,Janice Teo,janteolee@gmail.com,Mid-Value,116,1,34.0
+5362335055915,Cheryl,cheryl_2308@hotmail.com,Mid-Value,116,1,79.0
+5362319818795,Maureen,myusoo@yahoo.com,Mid-Value,116,1,30.0
+5362316607531,Azmeena Maniku,azmeena.maniku@gmail.com,Mid-Value,116,1,119.0
+5362314281003,Gladys,gladys.siah@gmail.com,Mid-Value,116,1,25.0
+5362310447147,Jeslyn Chua,chua.jeslyn@gmail.com,Mid-Value,116,1,98.0
+5362308481067,Rozi,rozi@hotmail.com,Mid-Value,116,1,30.0
+5362305368107,Wendy Shu,umintsuru@gmail.com,Mid-Value,116,1,29.0
+5362301468715,Joanne,jo54anne@gmail.com,Mid-Value,116,1,29.0
+5183745720363,Cheryl,tinicheryl@hotmail.com,Mid-Value,116,1,43.9
+5362287378475,Elaine,iiamlubbing@yahoo.com.sg,Mid-Value,116,1,167.9
+5362276696107,Shirley Huang,prettiesnow@gmail.com,Mid-Value,116,1,30.0
+5362234261547,Qi Fen,lavenderbreath@gmail.com,Mid-Value,116,1,30.0
+5362229772331,Kayley,No Email,Mid-Value,116,1,64.0
+5362219155499,Florence,coolblue26forever@gmail.com,Mid-Value,116,1,39.9
+5362214010923,Hazel z ,lythazel@gmail.com,Mid-Value,116,1,79.0
+3153284628523,Shaallini,shaallini.g@gmail.com,Mid-Value,116,1,101.0
+5351924924459,Stella,elyn260@gmail.com,Mid-Value,121,1,68.9
+5355734237227,yong,cyrioust@gmail.com,Mid-Value,123,1,109.8
+3925745500203,Wenchang,santusjous@gmail.com,Mid-Value,123,1,109.9
+5353831333931,Chai Feng,No Email,Mid-Value,124,1,79.9
+3211224547371,Wen,wenkun07@gmail.com,Mid-Value,124,1,143.7
+5353721331755,Annabel,No Email,Mid-Value,124,1,69.9
+5352714043435,Wei Ling,weilingh1@gmail.com,Mid-Value,125,1,57.0
+5352670658603,Jacklyn,jacklyn_huang@yahoo.com.sg,Mid-Value,125,1,43.9
+5352348319787,Wiwin,efflores00@gmail.com,Mid-Value,126,1,77.8
+5350318669867,Bernice,bernicelimsp@gmail.com,Mid-Value,128,1,148.14
+5349915459627,Vanitha ,stormgal@gmail.com,Mid-Value,128,1,45.0
+5349907464235,Jessie,sushi_hong@msn.com,Mid-Value,128,1,79.0
+5349320065067,Eileen,eileendyeol_@hotmail.com,Mid-Value,129,1,93.9
+5349189910571,Carat,caratlyn458@gmail.com,Mid-Value,129,1,85.8
+5349186142251,Ming ,fuluvfus@yahoo.com,Mid-Value,129,1,93.9
+5349171560491,Veron,veron_heng@hotmail.com,Mid-Value,129,1,54.9
+5349134729259,Gail,gaillmy@yahoo.com,Mid-Value,129,1,50.0
+5349092917291,Nancy,purplegoddess.nancy@gmail.com,Mid-Value,129,1,165.8
+5349071519787,Michelle,mich4ever88@hotmail.com,Mid-Value,129,1,85.8
+5347936698411,Winnie ,No Email,Mid-Value,130,1,75.0
+5347932274731,Sheryl Kang ,No Email,Mid-Value,130,1,30.0
+5347930800171,Ming,No Email,Mid-Value,130,1,30.0
+5347915595819,,elainechia1967@yahoo.com.sg,Mid-Value,130,1,65.0
+5347845210155,Kent,kentlim0612@hotmail.com,Mid-Value,130,1,100.8
+5347840917547,Joanne,joannewoo22@gmail.com,Mid-Value,130,1,42.9
+5347837345835,Kate,nyd_nana@yahoo.com,Mid-Value,130,1,60.0
+5328368566315,Faiqs,czacza@me.com,Mid-Value,133,1,63.8
+5328076177451,Shu Wah,ahwah.87@gmail.com,Mid-Value,133,1,73.9
+5302748676139,Shermin,granel162@hotmail.com,Mid-Value,139,1,109.7
+5299336282155,Gracelynn ,gracelynn_goh@yahoo.com,Mid-Value,140,1,53.9
+3977887940651,Sherry,loh.sherry@gmail.com,Mid-Value,141,1,85.9
+5296441327659,Eriko,summer_eriko85@yahoo.com.sg,Mid-Value,142,1,62.9
+5267628752939,Doreen,doreenhoo8@gmail.com,Mid-Value,143,1,139.8
+5291568889899,Lynne ,soolynne@gmail.com,Mid-Value,145,1,53.9
+5260134514731,Celyn,celyn11@hotmail.com,Mid-Value,146,1,83.9
+5289133441067,Jia Yi,leejiayi_@hotmail.com,Mid-Value,147,1,43.9
+5270663888939,Amanda,amanda_chan_95@hotmail.com,Mid-Value,148,1,63.9
+5287103594539,Anna,No Email,Mid-Value,149,1,111.9
+5286107086891,Priscilla,prisc.foo@gmail.com,Mid-Value,150,1,63.9
+5286372212779,Alexis,alexis-chua@outlook.com,Mid-Value,150,1,73.9
+5285092163627,Eunice ,eunice.limm01@gmail.com,Mid-Value,150,1,63.8
+5284170760235,JJ,No Email,Mid-Value,152,1,125.7
+5283237298219,Yikee,keeofheart@gmail.com,Mid-Value,153,1,71.72
+5281870512171,Sarah,sarahjanewoof@gmail.com,Mid-Value,155,1,78.9
+5280502218795,Joey ,joey5501@hotmail.com,Mid-Value,156,1,93.9
+5278763909163,Ten Ten,No Email,Mid-Value,158,1,117.9
+5278008541227,Serene,serenelie85@gmail.com,Mid-Value,159,1,72.0
+5277323493419,Samantha,No Email,Mid-Value,160,1,43.9
+5277083205675,Yuwen,No Email,Mid-Value,160,1,112.7
+5273429540907,Jocelyn,jocelyn14_two@hotmail.com,Low-Value,164,1,129.8
+5272858066987,Cecilia,cecilia92_angela@hotmail.com,Low-Value,165,1,66.9
+5272748654635,MX,w31xnau@hotmail.com,Low-Value,165,1,109.8
+5110543450155,Jacelyn ,jacelyn95@gmail.com,Low-Value,165,1,43.9
+5269791178795,Jocelene,No Email,Low-Value,168,1,67.9
+5269682847787,Jas,jaslim24@yahoo.com.sg,Low-Value,168,1,73.9
+5267193331755,Shannen,ang.shannen@gmail.com,Low-Value,171,1,145.8
+5266351161387,Serene,sereneng0112@gmail.com,Low-Value,172,1,164.8
+5266143969323,Mavis ,mavisgal@yahoo.com,Low-Value,172,1,43.0
+5263824912427,Thara Yasmine,tharayasmine@gmail.com,Low-Value,175,1,109.8
+5184843087915,Anna,alninma@gmail.com,Low-Value,176,1,153.9
+5262381318187,SANSAN,sansan33_wong@yahoo.com,Low-Value,177,1,114.8
+5261225394219,Yien Yin ,yingyingsing27@gmail.com,Low-Value,177,1,53.9
+5260914786347,Ashley,canivenus@hotmail.com,Low-Value,178,1,149.7
+5260847480875,Mavis,mavislyesy@gmail.com,Low-Value,178,1,156.0
+5257502326827,Elson,elsonlka@yahoo.com,Low-Value,179,1,63.9
+5259349295147,Linn,oceansunbeam@yahoo.com,Low-Value,180,1,139.9
+5258831790123,Jessie,jessieytan89@gmail.com,Low-Value,180,1,155.7
+5257452027947,Arella,arellacheng@gmail.com,Low-Value,182,1,129.8
+5257276063787,Ai Li,chin_aili@hotmail.com,Low-Value,182,1,34.0
+5250030534699,Nicole,shopstuffnik@gmail.com,Low-Value,188,1,165.6
+5249470693419,Diana,diana_nordy@yahoo.com.sg,Low-Value,189,1,53.9
+5248282755115,Ginny,ginny.ong3003@gmail.com,Low-Value,190,1,83.9
+5242535739435,Judy,cywong1818@gmail.com,Low-Value,191,1,73.9
+5243397636139,Charlene,celest_angely@hotmail.com,Low-Value,192,1,124.7
+3126701916203,Claudine,a.claudine90@gmail.com,Low-Value,193,1,73.9
+5244345221163,Sharyl,lyrahs@gmail.com,Low-Value,194,1,125.7
+5243672854571,HungShe,hersh.hungshe@gmail.com,Low-Value,195,1,139.8
+5242773569579,Annabelle ,annabellechinsh@hotmail.com,Low-Value,196,1,139.8
+5209566609451,Anna Shu Hui,annalimshuhui97@gmail.com,Low-Value,196,1,43.9
+5242515423275,Adeline,adeli_33@yahoo.com,Low-Value,196,1,53.9
+5241314574379,Annie,annieoh@email.com,Low-Value,198,1,159.7
+5239795351595,Ivy,ivy.yeapzf@gmail.com,Low-Value,199,1,98.9
+5239727161387,Karin,karinseow02@gmail.com,Low-Value,199,1,52.9
+5238849503275,Chermaine,yingru.net@hotmail.com,Low-Value,200,1,115.8
+5227693244459,Joey,ongweele@gmail.com,Low-Value,200,1,36.9
+5200662364203,Amanda,amanda.in.arizona@gmail.com,Low-Value,201,1,167.7
+5235863257131,Sharon,yunttan1213@gmail.com,Low-Value,202,1,43.9
+5234681249835,,fionatdw@hotmail.com,Low-Value,203,1,61.9
+5234016190507,Angela ,clarity_angela@hotmail.com,Low-Value,204,1,93.9
+5234069307435,Karen,karengoh81@hotmail.com,Low-Value,204,1,139.8
+5233849106475,Angeline,seowhwee.ng@gmail.com,Low-Value,204,1,159.8
+5231403270187,Angela,angelaaqe@gmail.com,Low-Value,207,1,111.8
+5229992902699,Nicelle,nicelleaw@gmail.com,Low-Value,208,1,125.7
+5229962068011,liqin,t.liqin@gmail.com,Low-Value,208,1,83.9
+5229258997803,Jacqueline,jacquelineytl@gmail.com,Low-Value,208,1,106.9
+5229227933739,Hui Hui,huihui9407@gmail.com,Low-Value,208,1,43.9
+5193944170539,Yuhui,hui_1265@hotmail.com,Low-Value,209,1,83.9
+5228263440427,Anastasia ,anagris_thean@icloud.com,Low-Value,210,1,53.9
+5227741872171,Gan,yrl74@hotmail.com,Low-Value,210,1,104.9
+5227784306731,Ainal,deliayaslim@gmail.com,Low-Value,210,1,73.9
+5227728502827,Ming ,fennie14@gmail.com,Low-Value,210,1,43.9
+5227548180523,Richard,bp@bptan.com,Low-Value,210,1,63.8
+3181962559531,Clanna,clanna_chuang@yahoo.com.sg,Low-Value,210,1,129.8
+5191803043883,JIAJIN,jiajin92@gmail.com,Low-Value,211,1,53.9
+5226155049003,Zhuoen,zhuoen.nlee@yahoo.com.sg,Low-Value,212,1,115.8
+5225678143531,,simjayyi@gmail.com,Low-Value,212,1,57.9
+5224858189867,Shihui,shi97hui@hotmail.com,Low-Value,213,1,119.8
+5224692351019,Harmony,fionaguosl@gmail.com,Low-Value,213,1,63.9
+5224689827883,Kim,yenwjss@gmail.com,Low-Value,213,1,4.0
+5224049442859,Jose,jose_loh@hotmail.com,Low-Value,214,1,63.9
+5223926956075,Lee leng,jasminekwan_babystar@hotmail.com,Low-Value,214,1,63.9
+5223778582571,Aly,celadon.skye@gmail.com,Low-Value,214,1,26.9
+5222853378091,Li ,missypinksss@gmail.com,Low-Value,215,1,26.9
+5221546164267,Ivy,ivy_y@hotmail.com,Low-Value,216,1,48.9
+5220725424171,Erica,erica_limac@yahoo.com.sg,Low-Value,217,1,93.9
+5220656447531,Tan,tan.kum.tien@gmail.com,Low-Value,217,1,43.9
+5219002515499,Daphne,mei3zhen@hotmail.com,Low-Value,219,1,125.6
+3035309735979,Jennifer,msbebe326@gmail.com,Low-Value,219,1,43.9
+3178430169131,Tifaine,tiffieloy@gmail.com,Low-Value,220,1,39.9
+3183789441067,Kristen,kristen.neo88@gmail.com,Low-Value,221,1,93.9
+5214414700587,Chris ,christhamjh@gmail.com,Low-Value,224,1,53.9
+5212979626027,Michelle ,prettydiamondss@hotmail.com,Low-Value,226,1,73.9
+5211920597035,Hangyi,rachelchanhx@gmail.com,Low-Value,227,1,63.9
+3791054274603,Chun Ting,junting@hotmail.com,Low-Value,228,1,139.8
+5211045134379,,plimpl@yahoo.com.sg,Low-Value,228,1,19.9
+5210872021035,Syaimah,ssyaimah08@gmail.com,Low-Value,228,1,103.8
+3972114448427,Alyssa,lysswong@yahoo.com,Low-Value,229,1,43.9
+5208709496875,Erica,sweetpiyo@hotmail.com,Low-Value,229,1,53.9
+5208166727723,Hannah ,muffindawn@gmail.com,Low-Value,230,1,149.8
+5208114102315,Chelsea ,sugarchelsea@gmail.com,Low-Value,230,1,23.9
+5206918660139,,cass.tan@yahoo.com,Low-Value,230,1,29.9
+5202903695403,Vivi,puffafish33@hotmail.com,Low-Value,233,1,129.7
+5202468241451,,semagenc.sg@gmail.com,Low-Value,233,1,78.8
+5199770615851,Gay,mengchoo22@gmail.com,Low-Value,235,1,59.8
+5199869804587,Xiu Yi,corrinexy@hotmail.com,Low-Value,235,1,43.9
+5198828797995,,jiaxin.yong1118@hotmail.com,Low-Value,236,1,49.9
+5196840763435,Eunice,euqey@hotmail.com,Low-Value,236,1,83.9
+5198559838251,Evin,evintay@live.com.sg,Low-Value,236,1,120.42
+5198491254827,Julia,julialim6@gmail.com,Low-Value,236,1,43.9
+5196897157163,Jolene,jolenekwp@gmail.com,Low-Value,237,1,109.8
+5171836157995,Sheryl ,aishah_946@hotmail.com,Low-Value,237,1,103.8
+5197578174507,Cindy,luvjrox@gmail.com,Low-Value,237,1,53.9
+5197054902315,Liz,sugiko12@gmail.com,Low-Value,238,1,73.9
+5196098011179,Siew Lee,tsuyo24@hotmail.com,Low-Value,238,1,118.7
+5196288032811,Chew,chewsiewling892@gmail.com,Low-Value,239,1,118.8
+5196133990443,Lay ,layyyhoon24@gmail.com,Low-Value,239,1,23.9
+5195454382123,Nann,khaysaihuam@gmail.com,Low-Value,240,1,33.9
+5195315478571,,erialc.fernandez@gmail.com,Low-Value,240,1,19.9
+5194920230955,SP,wsping79@hotmail.com,Low-Value,240,1,73.9
+3915650531371,Ee Lian,eelian.jjsalsa@gmail.com,Low-Value,241,1,43.9
+5193003302955,Yvonne,yvonne_phui@hotmail.com,Low-Value,242,1,149.6
+5193186050091,Noorhidayah,say.hidayah@live.com,Low-Value,242,1,28.95
+5188736909355,Beehong,beehong_21@hotmail.com,Low-Value,243,1,139.9
+5190932889643,Amelia,amelim21@gmail.com,Low-Value,244,1,149.8
+5189122490411,Averlyn,parris0416@gmail.com,Low-Value,246,1,68.9
+5187341189163,Xu,yingjer18@hotmail.com,Low-Value,247,1,53.9
+5188296998955,,shinybell@yahoo.com,Low-Value,248,1,49.9
+5168831987755,Diana,xcactusx@hotmail.com,Low-Value,248,1,43.9
+5184862552107,JR,jrc.bcreativesx@outlook.com,Low-Value,251,1,164.49
+5177502040107,DorishAron,summerger155@yahoo.com,Low-Value,251,1,141.54
+5184774799403,Yvonne,serenekoh87@gmail.com,Low-Value,251,1,53.9
+5184669581355,Desiree,zoeydesiree.tzy@gmail.com,Low-Value,251,1,169.51
+5184639598635,,karenhazzel@gmail.com,Low-Value,251,1,42.42
+5184427130923,Joshua,hahohe10@hotmail.com,Low-Value,252,1,63.34
+5177664962603,Doreen,starryizumi7@gmail.com,Low-Value,252,1,54.07
+5183526207531,Lulu,ohitslu@gmail.com,Low-Value,252,1,37.92
+5183120703531,Cecilia,kwokcecilia@gmail.com,Low-Value,252,1,131.34
+5183986303019,Michelle,mnglh704@hotmail.com,Low-Value,252,1,54.92
+5069541539883,Janice,janicelyebl@gmail.com,Low-Value,252,1,80.42
+5183879970859,Carol,tangkeowhung@hotmail.com,Low-Value,252,1,80.42
+5183725109291,Carol,kellan1210@gmail.com,Low-Value,252,1,79.57
+5183813189675,Wee Nee,weenee.chan@gmail.com,Low-Value,252,1,54.92
+5183793823787,Charmian,charmianx@yahoo.com,Low-Value,252,1,93.01
+5094779519019,Priscilla,priscilla.xue@gmail.com,Low-Value,252,1,71.92
+5183791890475,,joey_peina@yahoo.com.sg,Low-Value,252,1,98.09
+5183612846123,Sze Wei,szewei@hotmail.com,Low-Value,252,1,88.92
+5181083090987,Evon,evonchew0930@gmail.com,Low-Value,253,1,33.67
+5104618045483,Wong,shiremin@gmail.com,Low-Value,253,1,97.34
+3958580674603,ShuEe,yi_phua@hotmail.com,Low-Value,253,1,54.92
+5183146819627,Karen,cestret@gmail.com,Low-Value,253,1,110.82
+5173688467499,Cher,sunlite106@hotmail.com,Low-Value,253,1,46.42
+5182999363627,ShiTing,shiting1307@gmail.com,Low-Value,253,1,63.42
+5182930845739,Jasmine,tjm_94@live.com,Low-Value,253,1,88.84
+5182935040043,May ,pongmayying@yahoo.com.sg,Low-Value,253,1,28.9
+5182832115755,May Lai,maylaic77@yahoo.com,Low-Value,253,1,74.39
+5181907992619,,phuapar@gmail.com,Low-Value,254,1,79.9
+5041241358379,Katherine,katherinelby@gmail.com,Low-Value,254,1,63.9
+5045712584747,Patricia ,patriciapong@yahoo.com.sg,Low-Value,254,1,122.16
+5176576966699,Jia Hui,sinjiahui97@yahoo.com.sg,Low-Value,255,1,46.42
+5179956068395,Kira,kiralow123@gmail.com,Low-Value,256,1,33.67
+5166350270507,Xylia,xylia.oxh@gmail.com,Low-Value,256,1,80.42
+5179235434539,Stephenie,stepheniekjy@gmail.com,Low-Value,256,1,131.26
+5178639712299,Sin Min,sinminkwan@gmail.com,Low-Value,257,1,136.32
+5174500917291,Joshua,lyzzlim@gmail.com,Low-Value,257,1,39.9
+5175663460395,Serene,serene_xunyu@hotmail.com,Low-Value,257,1,80.42
+5060629233707,Eunice,euloh78@yahoo.com.sg,Low-Value,258,1,59.17
+5177792462891,Stephy,stephylys12@gmail.com,Low-Value,258,1,54.92
+5177698549803,Cheryl,cheong.michelle.h.x@gmail.com,Low-Value,258,1,80.42
+5177260703787,Henrietta,henrietta94@hotmail.com,Low-Value,258,1,46.42
+5177522389035,Yi Lin,alvin.hovinal@gmail.com,Low-Value,258,1,25.17
+5177082019883,Christine,christine.leowmm@gmail.com,Low-Value,259,1,80.42
+5053986930731,FIONA,fiyonna.t@gmail.com,Low-Value,259,1,63.42
+5176467259435,Jaz,jazminecheedbs@gmail.com,Low-Value,259,1,54.92
+5176341332011,Shi Wen,shiwen_05@hotmail.com,Low-Value,259,1,114.34
+5176278024235,Janice,mydestinee1101@gmail.com,Low-Value,259,1,54.92
+5175761600555,Christianna,sharon_christianna@msn.com,Low-Value,260,1,165.26
+5175706615851,Elizabeth,e.lizabethcsm1995@gmail.com,Low-Value,260,1,46.42
+5174751199275,Noorjaziyah,noorjaziyah@yahoo.com.sg,Low-Value,260,1,131.82
+5174849175595,Yann Chyng,yannchyng@gmail.com,Low-Value,261,1,63.42
+5174499704875,Jennifer,winniejaneo@gmail.com,Low-Value,261,1,127.34
+5148432072747,Brenda,brendafaithng@gmail.com,Low-Value,262,1,114.8
+5173543010347,Fenny,fenny_yanti@yahoo.com.au,Low-Value,262,1,73.9
+5172984086571,Yuki,suatteng@yahoo.com,Low-Value,263,1,53.9
+5171788316715,Dyanne,euniquez@hotmail.com,Low-Value,264,1,23.9
+5169034362923,Renu ,renu95m@gmail.com,Low-Value,265,1,164.7
+5170876678187,,jen_juanni@yahoo.com.sg,Low-Value,265,1,19.9
+3150920319019,Jamie ,awesomekyt@hotmail.com,Low-Value,265,1,39.9
+5169739137067,Angela,angela.chinmy@gmail.com,Low-Value,266,1,93.9
+5168943857707,Anna ,princess1406@gmail.com,Low-Value,267,1,43.9
+5168768417835,Min,charmaine03@hotmail.com,Low-Value,267,1,43.9
+5167012544555,Lim,lim_chieupei@hotmail.com,Low-Value,268,1,103.8
+5167133753387,Sam,zairline@yahoo.com,Low-Value,269,1,149.8
+5166905131051,Patricia,sim_ee_koon_patricia@moe.edu.sg,Low-Value,269,1,103.9
+5163335745579,Tiffany,No Email,Low-Value,272,1,57.8
+5162970808363,Amanda,No Email,Low-Value,272,1,97.4
+5162167369771,Rebecca,plainity@gmail.com,Low-Value,272,1,63.9
+5157003558955,Charis,minyi.c.wong@gmail.com,Low-Value,273,1,139.7
+5153742389291,Wendy,wlimcc@hotmail.com,Low-Value,274,1,33.9
+5149001646123,Annie,annieng1313@gmail.com,Low-Value,275,1,103.8
+5148474998827,Maggie,teo_mag@yahoo.com,Low-Value,275,1,119.8
+5144269815851,Wendy,wendy_tanyh@hotmail.com,Low-Value,276,1,48.9
+5143219109931,Sasikala,msasikala14@gmail.com,Low-Value,276,1,53.9
+5143010246699,Xinying,No Email,Low-Value,276,1,57.9
+5140358004779,Lynette,zylee448@hotmail.com,Low-Value,277,1,119.8
+5139937755179,Chew Fei,qiufaye92@hotmail.com,Low-Value,278,1,145.22
+5139447644203,May,leexwm@gmail.com,Low-Value,278,1,37.92
+5139316506667,Isabella,No Email,Low-Value,278,1,129.8
+5091746938923,Annabelle,annabelle_sean@hotmail.com,Low-Value,279,1,144.66
+5136680779819,Shandy,shandytmj@gmail.com,Low-Value,279,1,29.42
+5135905751083,Joyce,No Email,Low-Value,280,1,63.9
+5072509009963,Jiahui,tokjiahui_89@ymail.com,Low-Value,280,1,29.42
+5133556285483,XinYi,No Email,Low-Value,280,1,155.76
+5133043630123,Lim,kelst55242@hotmail.com,Low-Value,280,1,135.6
+5132829294635,MELODY,mlms_cd@msn.com,Low-Value,280,1,110.18
+5132657098795,Claire,seowyan_9782@yahoo.co.uk,Low-Value,280,1,119.8
+5130796367915,Aw,pisces_yuxia@hotmail.com,Low-Value,281,1,133.16
+5130636197931,Angela,ice_angela2001@yahoo.com,Low-Value,281,1,132.28
+5130540023851,Eileen,e_ileen@hotmail.com,Low-Value,281,1,67.59
+5130444963883,Winnie,winniewanncf@gmail.com,Low-Value,281,1,139.8
+5122381086763,,rice_cow@hotmail.com,Low-Value,285,1,0.0
+5122311127083,Michelle,michellecheltan@gmail.com,Low-Value,285,1,139.7
+5119996067883,Amanda,jessiegoh87@gmail.com,Low-Value,286,1,67.9
+5120735019051,Vaishu,No Email,Low-Value,286,1,63.9
+5116066136107,Charmaine,charmainelimjj@gmail.com,Low-Value,289,1,63.9
+5113848528939,Amber,shermain.lim@hotmail.com,Low-Value,289,1,73.9
+5115908816939,Christina,cchan136@gmail.com,Low-Value,289,1,93.9
+5114612056107,Joanne,kuajohnson@gmail.com,Low-Value,290,1,103.9
+5113614958635,Zoey,death_fairy60@hotmail.com,Low-Value,291,1,83.9
+5113436504107,Kelly,No Email,Low-Value,292,1,99.9
+5111121543211,Christine ,christinelss@ymail.com,Low-Value,292,1,96.9
+5111733714987,Jolene,infinitous_strikeback@hotmail.com,Low-Value,293,1,114.9
+5110506455083,Jing Ying,lim_jing_ying@hotmail.com,Low-Value,294,1,134.8
+5109496381483,Lin,son_lin@yahoo.com,Low-Value,295,1,114.8
+5107567132715,Wee Ling,wee_ling@hotmail.com,Low-Value,295,1,111.3
+5109359083563,Jazmine,No Email,Low-Value,295,1,75.8
+5109045657643,Jel,No Email,Low-Value,295,1,53.9
+5104764846123,Audrey,audreycjh@gmail.com,Low-Value,298,1,63.9
+5104537075755,Lina,No Email,Low-Value,298,1,49.9
+5104214048811,Khadijah,khadijahbsij@gmail.com,Low-Value,298,1,33.9
+5100930203691,Jessie,teyclara@yahoo.com.sg,Low-Value,300,1,53.9
+5093214748715,Eileen,emax3881@yahoo.com,Low-Value,300,1,149.8
+5100616876075,Sandy,No Email,Low-Value,301,1,49.9
+5099673714731,Desmond,wyhou90@hotmail.com,Low-Value,301,1,73.9
+5099619254315,Catherine Elise,loi_su_min@yahoo.com.sg,Low-Value,301,1,53.9
+5099534123051,Danny,dannywwh@gmail.com,Low-Value,301,1,83.9
+5099188256811,Siew li,siewli01@yahoo.com.sg,Low-Value,301,1,99.9
+5099285250091,Kevin,kevinhsj@gmail.com,Low-Value,301,1,109.8
+5097577119787,Jessie,jessie.tys@hotmail.sg,Low-Value,303,1,53.9
+5096422998059,Ginselle,rui0210@hotmail.com,Low-Value,304,1,66.4
+5096467398699,Charlene,charlenetan83@gmail.com,Low-Value,304,1,149.7
+5078945595435,Anna,annalle614@gmail.com,Low-Value,304,1,109.9
+5094986383403,Hui Qi,lhqtotheq@gmail.com,Low-Value,304,1,149.7
+5094213517355,Amanda,a.wongsie@gmail.com,Low-Value,305,1,63.9
+5093916901419,Cheryl,No Email,Low-Value,306,1,119.8
+5093143347243,Joan,No Email,Low-Value,307,1,95.9
+5093111070763,Joanne,No Email,Low-Value,307,1,29.9
+5091700801579,Masita,No Email,Low-Value,307,1,79.9
+5090646622251,Kaylyn,wenlinggg@gmail.com,Low-Value,308,1,144.9
+5088474693675,Attn Cecilia,joannatanliling@gmail.com,Low-Value,310,1,109.8
+5086331535403,Jutina,jutinaloh@gmail.com,Low-Value,312,1,33.9
+5086128504875,Janice,janicequah5@gmail.com,Low-Value,312,1,33.9
+5084291432491,Jessica,jessica.ng.simin@gmail.com,Low-Value,314,1,119.8
+5082822639659,Mandy,chlosher@hotmail.com,Low-Value,315,1,83.9
+3913629270059,Crystal,crystalchinliting@gmail.com,Low-Value,318,1,149.7
+5078009675819,Fiona,fionaho@jfl.com.sg,Low-Value,318,1,83.9
+3835079393323,Wei Ling,kohweiling@ymail.com,Low-Value,319,1,138.9
+5076661567531,Deniece,deniecegrace@gmail.com,Low-Value,319,1,69.8
+5073841848363,Charmaine,juz_me44@hotmail.com,Low-Value,322,1,119.35
+3980004458539,Maple ,mydior3010@gmail.com,Low-Value,322,1,114.59
+5067202494507,Chai Jiuan,nycj@live.com.sg,Low-Value,322,1,73.9
+5073734041643,Gracia,gracia.quah@gmail.com,Low-Value,322,1,148.33
+5073710121003,Cindy,m0chimochi@yahoo.com,Low-Value,322,1,122.92
+5073638948907,Jamie,No Email,Low-Value,322,1,95.89
+3979937841195,Belinda,low_bh@hotmail.com,Low-Value,322,1,93.25
+5073545101355,Chloe,tanzhiyi.chloe@gmail.com,Low-Value,322,1,139.83
+5073002463275,Sarah,katelin.tan@gmail.com,Low-Value,323,1,34.9
+5072979394603,Ying Ying,t.yingying@live.com,Low-Value,323,1,63.9
+5071583871019,Jaslynn,jaslynn-@hotmail.com,Low-Value,324,1,93.9
+5070716895275,Jaclyn,care.mato07@gmail.com,Low-Value,325,1,104.98
+5070503313451,Kristy,arcade_fureek@hotmail.com,Low-Value,325,1,93.93
+5070330069035,Jessamine,No Email,Low-Value,325,1,52.42
+3841927807019,Rachel,rachelyn@gmail.com,Low-Value,326,1,105.07
+5069186301995,Catherine,catherine_ez@yahoo.com,Low-Value,326,1,29.42
+5066973282347,Megan,megan.minyee@hotmail.com,Low-Value,327,1,73.9
+5068172197931,Jane,lurve5978@gmail.com,Low-Value,327,1,103.9
+5067398152235,Keira,gkx1997@gmail.com,Low-Value,328,1,119.7
+3844329668651,Eileen,schnauzy@gmail.com,Low-Value,328,1,97.42
+5066655531051,Wai Peng,jyanwp@hotmail.com,Low-Value,329,1,127.33
+5066266017835,Yusra,yusra.naqash@gmail.com,Low-Value,329,1,83.7
+5066135076907,Jane,jane_lim@hotmail.com,Low-Value,329,1,125.33
+5066038870059,CHOO,choo_sw@yahoo.com.sg,Low-Value,329,1,93.17
+5066101981227,Bijuan,neobijuan@gmail.com,Low-Value,329,1,134.3
+5066054107179,Qing,qinger06@gmail.com,Low-Value,329,1,127.25
+5066027139115,Elynn,elynnzee@gmail.com,Low-Value,329,1,33.9
+5065952198699,Lisa,lizmok80@gmail.com,Low-Value,329,1,42.9
+5065171763243,Irene,candy_sihui@hotmail.com,Low-Value,330,1,103.9
+5064962572331,Jaymee,gamjaymee@gmail.com,Low-Value,330,1,83.9
+5063901315115,Jacqueline,gessgrads@gmail.com,Low-Value,331,1,139.8
+5062881411115,Jaqueline,tamsy.9@gmail.com,Low-Value,332,1,137.8
+5062674087979,Javette,javettephua@gmail.com,Low-Value,332,1,138.9
+5061750095915,Mint,nnes520@hotmail.com,Low-Value,333,1,83.9
+5061015011371,ELAINE,elainelewlew@gmail.com,Low-Value,334,1,67.9
+5060733042731,Renu,No Email,Low-Value,334,1,59.9
+5044885487659,Yiying,chantellelily.s@gmail.com,Low-Value,335,1,109.9
+5059993993259,Nessia,missyq1982@gmail.com,Low-Value,335,1,33.9
+5059738566699,Doris,No Email,Low-Value,335,1,43.9
+5059427041323,Bernice,No Email,Low-Value,336,1,59.9
+5058732458027,Xu,xadeline@gmail.com,Low-Value,336,1,139.9
+3799861067819,Jiehui,jiehui09@hotmail.com,Low-Value,337,1,29.9
+5057468530731,Peifang,xiepf86@gmail.com,Low-Value,337,1,149.8
+5057278148651,Khoo,meishan1988@yahoo.com.sg,Low-Value,337,1,127.67
+5056713588779,Denise,nise1206@hotmail.com,Low-Value,338,1,123.9
+5056611188779,Su Fei,tansufei_0901@hotmail.com,Low-Value,338,1,139.8
+5056332660779,Angelyn,angelyn.ho@hotmail.com,Low-Value,338,1,123.9
+5056071041067,Dini,ndinisarifudin@gmail.com,Low-Value,338,1,103.9
+5055496126507,Jolyn,No Email,Low-Value,339,1,103.9
+5055377801259,Dayna,97daynadayna@gmail.com,Low-Value,339,1,103.9
+5055257608235,LIM FOH,starrywinter@gmail.com,Low-Value,339,1,93.9
+5053911859243,Delia,delia.png@gmail.com,Low-Value,340,1,46.9
+5053062840363,Lily Zhu,wenwen_0209@yahoo.com,Low-Value,341,1,34.9
+5052286205995,Sally,yllas86@gmail.com,Low-Value,341,1,112.8
+5051428831275,vijitha,vijitha2017@hotmail.com,Low-Value,342,1,93.8
+5050905100331,charlene,charleneteo03@gmail.com,Low-Value,342,1,73.9
+5050890911787,Tze,shopperholing@gmail.com,Low-Value,342,1,112.8
+5050855325739,Jin Pei,jinpei.go@gmail.com,Low-Value,342,1,114.7
+5048603082795,Hong Ling,honglingggs@gmail.com,Low-Value,343,1,83.9
+5049635307563,Crystal,crystallim1228@gmail.com,Low-Value,343,1,53.9
+5048684085291,Lynette,lynette.sng@gmail.com,Low-Value,344,1,103.9
+5045151170603,Rena,No Email,Low-Value,347,1,82.9
+5044969013291,April,gohapril@gmail.com,Low-Value,347,1,139.8
+5044675412011,Kris,No Email,Low-Value,347,1,5.0
+5044592476203,Aiqi,No Email,Low-Value,348,1,63.84
+3897850101803,Catherine,lim_kezia@yahoo.com,Low-Value,348,1,93.9
+5043383861291,yap,may.11766@gmail.com,Low-Value,349,1,46.9
+5042910068779,Pearlyn,No Email,Low-Value,349,1,44.9
+5042869731371,Siti,manja_blue@hotmail.com,Low-Value,349,1,149.9
+5042607915051,Juan,simhuichian@gmail.com,Low-Value,349,1,83.8
+5042433720363,Constance,constance.ylchun@gmail.com,Low-Value,349,1,169.8
+5042362482731,Shujun,No Email,Low-Value,349,1,49.9
+5028195532843,Jacqueline,paper_strawberry@yahoo.com.sg,Low-Value,350,1,79.9
+5041502650411,Qaqa Abdul,syafiqah_fiqa@hotmail.com,Low-Value,350,1,97.9
+5040456892459,Boon Rong,No Email,Low-Value,351,1,89.9
+3979706236971,Sang,sangsang@live.com,Low-Value,351,1,119.8
+5040178298923,Stella,lowmeideng@gmail.com,Low-Value,351,1,48.9
+5039130083371,Lynn,winzta@yahoo.com,Low-Value,352,1,93.9
+5038425309227,Wan,jacelynnlye31@hotmail.com,Low-Value,353,1,37.9
+5038353907755,Chantel,chantel.kismet@gmail.com,Low-Value,353,1,38.9
+5037293600811,Kaysey,No Email,Low-Value,354,1,93.9
+5037075726379,Wanqi,soonwanqi@gmail.com,Low-Value,354,1,118.8
+5036981747755,Lynn,No Email,Low-Value,354,1,89.9
+5036360400939,Audrey,rongshanz@gmail.com,Low-Value,355,1,129.8
+5036136890411,Sherlyn,sherlynliang@gmail.com,Low-Value,355,1,112.9
+5034998923307,Wenjun,No Email,Low-Value,356,1,97.9
+5033995206699,fiona,carmila999@gmail.com,Low-Value,357,1,46.9
+5033948872747,Kaydance,No Email,Low-Value,357,1,99.9
+5033858695211,Jessica,No Email,Low-Value,357,1,61.9
+5033808101419,Zen,kaore_86@yahoo.com,Low-Value,357,1,104.9
+5033665036331,Jasmine,jasmine.neopg@gmail.com,Low-Value,357,1,103.9
+5033562341419,Erina,miyazakierina@hotmail.com,Low-Value,357,1,73.9
+5032750481451,Gracia,graciaong-@hotmail.com,Low-Value,358,1,109.9
+3126708600875,Jing ting,geraldineljt@hotmail.com,Low-Value,358,1,115.8
+5031945338923,May,No Email,Low-Value,359,1,39.0
+5031862534187,Catherine,pinkmangolim@yahoo.com.sg,Low-Value,359,1,43.9
+5031297286187,Jane,janetohsy@gmail.com,Low-Value,360,1,149.8
+5030520455211,Esti,No Email,Low-Value,360,1,89.9
+5030516129835,Shahirah,shahirah0901@gmail.com,Low-Value,360,1,33.9
+5030253756459,Adorcia,adorcia.chin@gmail.com,Low-Value,361,1,43.9
+5030188154923,Elaine,elaine_man1995@hotmail.com,Low-Value,361,1,114.8
+5028557652011,Joyce,joycewong_9@hotmail.com,Low-Value,362,1,43.0
+5028530749483,Kristin,kristin_hamton@moe.edu.sg,Low-Value,362,1,63.9
+5028290199595,Ascilin,ascilin@singnet.com.sg,Low-Value,362,1,141.82
+5023854526507,Tsai Men,senfuin@hotmail.com,Low-Value,362,1,64.4
+5027073687595,Anabelle,ana.hzyy@gmail.com,Low-Value,363,1,149.8
+5026487009323,dayle,daylessh@gmail.com,Low-Value,364,1,46.9
+5026450407467,Pei Shan,peishan.gem@gmail.com,Low-Value,364,1,124.66
+5026395717675,Yizhen,tayyizhen1995@gmail.com,Low-Value,364,1,143.52
+5026027864107,Kelly,kelly_hui_hui@hotmail.com,Low-Value,364,1,35.92
+3979829706795,Simin,teosm.03@gmail.com,Low-Value,365,1,113.82
+5025249525803,Caryl,carylmartin13@gmail.com,Low-Value,365,1,109.9
+5024207929387,Wiwi,justmypride@gmail.com,Low-Value,366,1,93.9
+5023851479083,Atikah,atikah.abdulmutalib@gmail.com,Low-Value,366,1,109.8
+5023737413675,Agnes,agnes63085@gmail.com,Low-Value,367,1,139.7
+5022411882539,Zj,tzhanjun90@gmail.com,Low-Value,367,1,83.9
+3976254160939,Jezebel,jezebely94@gmail.com,Low-Value,367,1,61.9
+5022093901867,enez,angelenez81@gmail.com,Low-Value,368,1,102.9
+3979914543147,Jacelyn,jacelyntan88@gmail.com,Low-Value,369,1,104.9
+3980989857835,Jingting,amyng1972@gmail.com,Low-Value,370,1,93.9
+3980743606315,Wendy,fen_29@yahoo.com.sg,Low-Value,370,1,53.9
+3980865470507,Axel,youngrev14@gmail.com,Low-Value,370,1,19.0
+3980102565931,April,aypecakes@gmail.com,Low-Value,371,1,146.64
+3979617927211,Cai Ling,ahling14@gmail.com,Low-Value,371,1,109.8
+3978745610283,Shirley,shirley01_1984@hotmail.com,Low-Value,372,1,73.9
+3977731571755,Tan,taziegal@yahoo.com.sg,Low-Value,373,1,109.9
+3977666723883,Evon,stb.evonng@gmail.com,Low-Value,373,1,109.9
+3977620652075,Fauziyah,fauziyah_1994@hotmail.com,Low-Value,373,1,43.9
+3976449359915,Jean,tanjean79@hotmail.com,Low-Value,374,1,107.9
+3976237154347,CHONG,albee.chong0718@gmail.com,Low-Value,374,1,109.8
+3975627440171,,lina.ko93@hotmail.com,Low-Value,375,1,73.9
+3975571275819,Shengy,shengychan@hotmail.sg,Low-Value,375,1,38.9
+3975365820459,Richelle,tengrichelle@yahoo.com.sg,Low-Value,375,1,35.92
+3968749895723,Eve Zeng Lin,bayzenglin@gmail.com,Low-Value,375,1,104.8
+3973909250091,Angela,an_jiahui@hotmail.com,Low-Value,376,1,159.8
+3973017632811,Yenuo,yenuochan@gmail.com,Low-Value,377,1,76.9
+3972760961067,Rex Woo,krystaloh@yahoo.com,Low-Value,378,1,108.9
+3142221430827,Jessica,jessicalaumy@gmail.com,Low-Value,378,1,19.0
+3971226435627,Loh,adeline_star@hotmail.com,Low-Value,379,1,109.92
+3971003777067,Geogina,geoginasoh@gmail.com,Low-Value,379,1,43.0
+3174804553771,Clara,wongliying92@gmail.com,Low-Value,380,1,67.84
+3969963950123,Sarah,sarah_hoon@hotmail.com,Low-Value,380,1,73.9
+3968879460395,Cindy ,cindyzhuang.dance@hotmail.com,Low-Value,381,1,124.8
+3968618725419,Joyce,snowfrost.xj0yce@gmail.com,Low-Value,381,1,91.76
+3967546982443,Olivia,olathevia.2610@gmail.com,Low-Value,382,1,149.8
+3966709825579,Meryll,meryllpineda@yahoo.com,Low-Value,383,1,139.9
+3964186230827,Xiu Li ,chiaxiuli96@gmail.com,Low-Value,385,1,63.9
+3963012546603,Edith,l.peiting@gmail.com,Low-Value,386,1,146.9
+3962834321451,Ellie,elliex93@gmail.com,Low-Value,386,1,43.9
+3960911069227,Amanda,amandatzl@gmail.com,Low-Value,388,1,110.7
+3960853823531,Nanaco,hwa94@icloud.com,Low-Value,388,1,128.0
+3959720378411,Sandy,masuyama10@hotmail.com,Low-Value,389,1,132.6
+3955817775147,Stacey,staceychengyiyun@gmail.com,Low-Value,392,1,93.9
+3953974050859,Hoo,kuso.cow@gmail.com,Low-Value,394,1,53.9
+3951666921515,Yi Jing,yijing_86@hotmail.com,Low-Value,395,1,169.8
+3952397451307,Kendra,kendra@live.com.sg,Low-Value,395,1,33.9
+3951715024939,Alice,alicelam75@gmail.com,Low-Value,396,1,62.9
+3150102167595,Xinhui,xinhui_eg@hotmail.com,Low-Value,397,1,66.9
+3948905857067,Anna,anna_lee123@live.co.uk,Low-Value,397,1,119.8
+3948839272491,Michelle,michteo.m.f@gmail.com,Low-Value,397,1,127.9
+3948107595819,Xiu hui,xiuhui_04@hotmail.com,Low-Value,398,1,75.82
+3948017713195,Doreen,doreenchia@yahoo.com,Low-Value,398,1,58.8
+3946938204203,Min,minying51@hotmail.com,Low-Value,399,1,93.9
+3945584623659,Michele ,qiuping1905@hotmail.com,Low-Value,400,1,37.9
+3944933720107,Serene,serenechan95@gmail.com,Low-Value,401,1,63.9
+3944643723307,Nicole,nicwong102794@gmail.com,Low-Value,401,1,43.9
+3939922935851,Cassandra,cassandreamz@gmail.com,Low-Value,403,1,129.7
+3942198706219,Deon,dyee5796@gmail.com,Low-Value,403,1,93.9
+3942108921899,Coreen ,coreen_bear@yahoo.com.sg,Low-Value,403,1,83.9
+3935340265515,Nur Faizatul,faizamirah97@gmail.com,Low-Value,403,1,33.9
+3922515918891,Melene,kwek_kwek@outlook.com,Low-Value,403,1,56.9
+3934455267371,Francisca,franciscasusanto@yahoo.com,Low-Value,404,1,33.9
+3940039196715,Jacqueline,acidrayne79@gmail.com,Low-Value,405,1,139.9
+3938746368043,Vivian,vivianleong29@gmail.com,Low-Value,406,1,49.9
+3937798553643,Farizah,nfarizah97@gmail.com,Low-Value,407,1,33.9
+3937777156139,Eileen,eileen.heng10@yahoo.com,Low-Value,407,1,38.9
+3937641562155,Michelle,michelle.chs@gmail.com,Low-Value,407,1,99.9
+3747187621931,TY,ngtengyee@gmail.com,Low-Value,407,1,43.9
+3934504124459,Jacintha,jacintha-tay@hotmail.com,Low-Value,410,1,57.82
+3920979787819,Jenn,nini-miss-u@hotmail.com,Low-Value,410,1,129.8
+3933984096299,Jessie,jessieng_95@hotmail.com,Low-Value,410,1,33.9
+3933574725675,Edlyn,peiling7296@gmail.com,Low-Value,411,1,118.8
+3933357244459,Xiaohui,summer87lim@hotmail.com,Low-Value,411,1,33.9
+3928679809067,Charmaine,maine97ssy@gmail.com,Low-Value,411,1,38.9
+3930386661419,Shuqiu,aaaqiuuu@gmail.com,Low-Value,414,1,34.9
+3929627066411,Karen,karencheong2029@gmail.com,Low-Value,414,1,115.8
+3929561530411,Erika,erikayew@hotmail.com,Low-Value,414,1,46.9
+3928788074539,Hazel,hazelfcl@gmail.com,Low-Value,415,1,117.2
+3928559550507,Whitney,whitneyyap@yahoo.com,Low-Value,415,1,73.9
+3928654774315,Jh,jiehui1909@gmail.com,Low-Value,415,1,108.9
+3928619417643,Ivanka,ivankafg@yahoo.com,Low-Value,415,1,112.8
+3928563875883,Arien,lynn13tan@gmail.com,Low-Value,415,1,93.9
+3924583841835,Fong,sockhann@live.com,Low-Value,416,1,53.9
+3925888401451,nicole,nicolekathyestrop@hotmail.com,Low-Value,417,1,36.9
+3923348652075,JN,jnlim.ljn@gmail.com,Low-Value,418,1,109.7
+3923087097899,Jenny,jen2y2@hotmail.com,Low-Value,420,1,73.9
+3922229952555,Shanny,lee-shanny@hotmail.com,Low-Value,420,1,159.8
+3922133450795,Esther,yensther@gmail.com,Low-Value,420,1,103.7
+3919776972843,,jammyjann90@gmail.com,Low-Value,421,1,81.9
+3921452695595,Jenxel,jenxelaw@gmail.com,Low-Value,421,1,128.61
+3920987586603,Joey,joeyteory@hotmail.com,Low-Value,421,1,62.9
+3920028008491,Dorothy,tanjielindorothy@hotmail.com,Low-Value,422,1,119.8
+3919962865707,Eileen,mrseileentoh@gmail.com,Low-Value,422,1,93.9
+3918986510379,charlotte,charlotteneo13@gmail.com,Low-Value,423,1,57.9
+3918187724843,Valerie,valerie-lim@live.com,Low-Value,424,1,63.8
+3917918437419,Liyi ,yingchui95@gmail.com,Low-Value,424,1,33.9
+3916809699371,Heng,irnarozalina@gmail.com,Low-Value,424,1,53.9
+3917791428651,Quennie,quennie92@gmail.com,Low-Value,424,1,70.9
+3917138526251,Jasminnie,jasminnielee@hotmail.com,Low-Value,425,1,33.9
+3892314472491,Huifang,xhfneo@gmail.com,Low-Value,425,1,43.9
+3916740362283,Peifeng,pfkweh@gmail.com,Low-Value,425,1,43.9
+3913210593323,Corvy,corvyng@yahoo.com,Low-Value,428,1,108.7
+3778523463723,Lynette,rivanettee@gmail.com,Low-Value,430,1,115.8
+3911984316459,Germaine,germainechin@gmail.com,Low-Value,430,1,159.39
+3911843545131,Anna,iloveburrrito@gmail.com,Low-Value,430,1,143.64
+3910833471531,Jannah,jannah.johari@gmail.com,Low-Value,430,1,66.8
+3911559905323,Nisa,nissy3003@hotmail.com,Low-Value,431,1,127.83
+3911056064555,Julian,julianjoel87@hotmail.com,Low-Value,431,1,63.8
+3909882249259,Fazilah,fazilah.jaafar@hotmail.com,Low-Value,432,1,69.8
+3905291812907,Cassandra,cassandraleowwenqi@gmail.com,Low-Value,435,1,43.9
+3904746815531,Janice,janlim20@hotmail.com,Low-Value,437,1,33.9
+3903968608299,Jia An,jia.an87@hotmail.com,Low-Value,437,1,63.8
+3892794359851,Amanda,amanda_soo_92_@hotmail.com,Low-Value,438,1,83.9
+3902333681707,Roslina,bubblyros@gmail.com,Low-Value,438,1,86.8
+3902333845547,Buvi,buvi90@hotmail.com,Low-Value,438,1,56.9
+3900914466859,Belicia,bel_273@hotmail.com,Low-Value,439,1,46.9
+3899582119979,Huiwen,coolblood@hotmail.com,Low-Value,439,1,164.43
+3900462792747,Sherry,shersherlow@gmail.com,Low-Value,440,1,78.8
+3884761251883,Cherie,cheriesgl@gmail.com,Low-Value,440,1,46.9
+3899661058091,Crisann,crisannlai8@gmail.com,Low-Value,440,1,33.9
+3899477360683,Rainie,rainietsy@gmail.com,Low-Value,440,1,39.0
+3819677515819,Wanling,lolipop_ling@hotmail.com,Low-Value,440,1,150.84
+3899411398699,Zoe,zoelimxy_94@hotmail.com,Low-Value,440,1,63.9
+3899281244203,Cherry ,tingleling@gmail.com,Low-Value,440,1,68.9
+3151089139755,,chowwenqi@gmail.com,Low-Value,440,1,111.8
+3894300934187,Benedict,banana_bell03@yahoo.com,Low-Value,441,1,69.8
+3898204880939,Weiqi,weiqiteaaa@hotmail.com,Low-Value,441,1,119.8
+3897935724587,yu yan ,limyuyanz@gmail.com,Low-Value,441,1,43.9
+3897797443627,Sharry,longlasting_love@live.com.sg,Low-Value,441,1,57.91
+3897750552619,Nicole,ncyj29@gmail.com,Low-Value,441,1,114.8
+3897364152363,Eric,81et93sm@gmail.com,Low-Value,442,1,43.9
+3895624990763,R,rjeleon@hotmail.com,Low-Value,442,1,43.9
+3896365088811,Vera,verachua93@gmail.com,Low-Value,442,1,39.9
+3894713253931,Janet,hweecheekoh@yahoo.com,Low-Value,442,1,63.9
+3894168059947,Adelyne,tanadelyne@gmail.com,Low-Value,442,1,86.8
+3896087609387,Margaret,margaret_manzano96@hotmail.com,Low-Value,442,1,36.9
+3895713529899,FIDELIA,baebeh@gmail.com,Low-Value,442,1,119.6
+3149723074603,Lindy,limlindy@yahoo.com.sg,Low-Value,442,1,53.9
+3894412836907,Krystle,krystle.tjl@gmail.com,Low-Value,443,1,33.9
+3894274949163,WoeiPerng,wongwp21@hotmail.com,Low-Value,443,1,83.9
+3894222159915,Christel,christelyanminyi@gmail.com,Low-Value,443,1,42.9
+3892670693419,Claudia,dia.xpress@gmail.com,Low-Value,444,1,119.6
+3891225395243,Maureen ,tyeyienyin88@hotmail.com,Low-Value,444,1,83.9
+3880181366827,Jessie,jess4994@hotmail.com,Low-Value,444,1,146.52
+3892668792875,Rui wen,happy_go_lucky_123@hotmail.com,Low-Value,444,1,69.8
+3892653260843,Luo,debbieluo.93@gmail.com,Low-Value,444,1,73.9
+3891739263019,Joveen,sheanthieng@gmail.com,Low-Value,444,1,38.9
+3889209573419,Jewel,juelkzq@gmail.com,Low-Value,444,1,38.9
+3891354271787,Yean Ching,pangdanny@gmail.com,Low-Value,445,1,93.9
+3891240435755,Karmen,karmenleejm@gmail.com,Low-Value,445,1,33.9
+3891098091563,Wang,xueyi_garf@hotmail.com,Low-Value,445,1,56.9
+3868745170987,Alicia ,atzy2424@gmail.com,Low-Value,446,1,38.9
+3889390420011,Joanne,mambo_gurlz@hotmail.com,Low-Value,446,1,152.82
+3889854218283,Denise,deniselaw@outlook.com,Low-Value,446,1,34.9
+3889784520747,Dawn,dawntan@me.com,Low-Value,446,1,73.9
+3884441075755,Ken Hui,kenhui.0319@gmail.com,Low-Value,447,1,157.7
+3887530475563,Elaine,mrselaineloh@gmail.com,Low-Value,447,1,64.8
+3885874970667,Sherlyn,sherlynoh@ymail.com,Low-Value,448,1,63.9
+3885875822635,Stephanie,ling.stephanie@gmail.com,Low-Value,448,1,38.9
+3882736648235,Shihan,lsh.samantha@gmail.com,Low-Value,450,1,109.7
+3880321679403,Taarshini,taarshini@gmail.com,Low-Value,451,1,55.9
+3878937821227,Regina ,mail2regina@gmail.com,Low-Value,452,1,72.9
+3877845139499,Aishah,kapoorian@gmail.com,Low-Value,452,1,34.9
+3877881905195,Sabrina,sabbie05@yahoo.com,Low-Value,452,1,139.6
+3873281900587,Irma Niza,eiravanora@gmail.com,Low-Value,454,1,43.0
+3855913091115,Bee kuan,bklim04@gmail.com,Low-Value,456,1,143.73
+3865280643115,Jazlyn,jazlyns@live.com,Low-Value,456,1,41.93
+3868443705387,Hilda,tan.hilda@hotmail.sg,Low-Value,456,1,43.0
+3868075458603,Junnie,ihatexams@hotmail.com,Low-Value,456,1,150.7
+3850355474475,Ivy,ivyangeh@gmail.com,Low-Value,457,1,53.9
+3863354310699,Monisha,monishadorai@hotmail.com,Low-Value,458,1,111.7
+3862869409835,Sherine,xueling05@yahoo.com,Low-Value,458,1,117.0
+3861460484139,Wen Jing,wenjing_ong@hotmail.com,Low-Value,459,1,75.8
+3859873955883,Vivian,viviansia8606@gmail.com,Low-Value,460,1,33.9
+3859602407467,Vanessa,weevan@gmail.com,Low-Value,460,1,63.8
+3823885615147,Diane,dianetay.lin@gmail.com,Low-Value,460,1,83.9
+3857877631019,celeste,cellstanjx@gmail.com,Low-Value,460,1,49.9
+3859441680427,Joan,zhuoen@gmail.com,Low-Value,460,1,63.8
+3859019759659,Juliana,peiling_0212@hotmail.com,Low-Value,460,1,146.52
+3859023036459,Chia,sigridchia@gmail.com,Low-Value,461,1,107.91
+3847444168747,June,junethamyy@hotmail.com,Low-Value,461,1,48.9
+3855918465067,Carrie,initialcw@yahoo.com.sg,Low-Value,462,1,127.7
+3831154606123,Jamie,jtan_sl@hotmail.com,Low-Value,462,1,43.9
+3853444087851,Su-Anne,sacw2002@yahoo.com.sg,Low-Value,464,1,108.8
+3851582603307,Mazahirah,ianirah@hotmail.com,Low-Value,465,1,43.9
+3851787894827,Athena,wongathena@hotmail.com,Low-Value,465,1,83.9
+3849150955563,Cindy,cindysan_1989@hotmail.com,Low-Value,467,1,86.8
+3848172797995,Natalie,hengq.natalie@gmail.com,Low-Value,468,1,149.8
+3847965081643,Eileen,risinghyejin@gmail.com,Low-Value,468,1,51.9
+3847926186027,Lynn,lynsf@yahoo.com,Low-Value,468,1,163.6
+3846602850347,Arty,artynadya85@msn.com,Low-Value,469,1,103.8
+3843649863723,Jing Fei,sengjingfei@hotmail.com,Low-Value,471,1,43.9
+3840022741035,Siew Yen,ohhelloyenn@gmail.com,Low-Value,472,1,33.9
+3842913763371,Maya,mayatoh@live.com,Low-Value,472,1,109.9
+3841896513579,Evelyn,evelynchan116@gmail.com,Low-Value,473,1,171.13
+3841897037867,Crystel,prixxus@gmail.com,Low-Value,473,1,75.91
+3837818994731,Cindy,cindytoh08@hotmail.com,Low-Value,473,1,35.41
+3840338853931,Wendy,wendylim.css@gmail.com,Low-Value,473,1,75.82
+3841692041259,Zoe,zoeangsy@gmail.com,Low-Value,473,1,30.91
+3841380483115,Cherie,cherie86@gmail.com,Low-Value,473,1,157.54
+3840268927019,Jolene,jolene_tan90@hotmail.com,Low-Value,473,1,32.71
+3837454549035,Alexa,iamalexak@gmail.com,Low-Value,474,1,98.32
+3840071958571,Myca,whiskey_tango13@yahoo.com,Low-Value,474,1,66.91
+3839985942571,Danyu,wang.danyu0620@gmail.com,Low-Value,474,1,93.9
+3838940872747,Ten,leewei84@yahoo.com.sg,Low-Value,475,1,103.8
+3837427187755,Shuying,shuuuying@gmail.com,Low-Value,475,1,44.41
+3838628102187,Ying Ying,zxctyy@hotmail.com,Low-Value,475,1,72.22
+3837667770411,Janis,rhjanis@gmail.com,Low-Value,475,1,103.8
+3837746151467,Shewen,e_shewen@yahoo.com.sg,Low-Value,476,1,73.9
+3837657579563,Denise,blithe.82@gmail.com,Low-Value,476,1,156.8
+3837271900203,Grace,gracewong105@gmail.com,Low-Value,476,1,86.62
+3836700065835,Naomi,a5095273@gmail.com,Low-Value,477,1,83.9
+3836670181419,Grace,grazfhy@gmail.com,Low-Value,477,1,99.71
+3836662841387,Nur,dhaniyahnur@gmail.com,Low-Value,477,1,43.9
+3827308658731,,ya_hui89@hotmail.com,Low-Value,477,1,128.14
+3826863964203,Sharon,sharon_9207@hotmail.com,Low-Value,477,1,68.51
+3836362981419,Nani,aidan.aila@yahoo.com.sg,Low-Value,477,1,33.9
+3826535039019,Fiona,fionakhong@gmail.com,Low-Value,477,1,42.61
+3836241838123,Isabel,fanyl.isabel@gmail.com,Low-Value,477,1,39.9
+3836228698155,Yvonne,vontham@gmail.com,Low-Value,477,1,38.9
+3836225847339,Syahidah,syasyaar11@gmail.com,Low-Value,477,1,123.52
+3836217557035,Seline,selineliew@ymail.com,Low-Value,477,1,35.41
+3836192751659,Teresa,ting_4eva@hotmail.com,Low-Value,477,1,119.53
+3835146338347,Kalpana,kalpana87.tutor@gmail.com,Low-Value,478,1,48.82
+3834354958379,Diana,diana.hoe@gmail.com,Low-Value,479,1,23.92
+3833099747371,Mabel,mabel_chue@yahoo.com.sg,Low-Value,479,1,23.92
+3831260184619,Ivy,ivy_thm@hotmail.com,Low-Value,480,1,124.8
+3827315834923,Elaine,elaineong7@gmail.com,Low-Value,480,1,107.7
+3832684249131,Suleiman,raihana.suleiman@gmail.com,Low-Value,480,1,169.38
+3832622841899,Koh,cyn79chris75@hotmail.com,Low-Value,480,1,23.92
+3832569298987,Clara,clarali.m@outlook.com,Low-Value,480,1,33.9
+3831615291435,Audrey,sychyi17audrey@hotmail.com,Low-Value,481,1,27.92
+3831603724331,Cindy,cindy84ang@gmail.com,Low-Value,481,1,102.7
+3831592124459,Kanagess,kanagess123@gmail.com,Low-Value,481,1,51.84
+3831494049835,Nur Erwina,nurerwina_m.ismail@yahoo.com,Low-Value,481,1,27.92
+3830363979819,Nurul,nrlamaliag@gmail.com,Low-Value,482,1,91.8
+3830065692715,Huishan,huishan345@gmail.com,Low-Value,482,1,43.9
+3829254815787,Jean,jeanlynette74@yahoo.com,Low-Value,483,1,27.92
+3828479295531,Grace,michellephuazz@gmail.com,Low-Value,483,1,96.72
+3827923583019,Zoe,zoez0805@gmail.com,Low-Value,483,1,129.8
+3826668634155,Anisah,nranisahb@gmail.com,Low-Value,485,1,63.8
+3826623479851,Michelle,hello_kitty9077@hotmail.com,Low-Value,485,1,141.9
+3825413619755,Tenzin,tenzinyan@gmail.com,Low-Value,485,1,52.82
+3826335285291,Constance,conshry@gmail.com,Low-Value,485,1,51.84
+3826322702379,Charlene,charlenephua@hotmail.com,Low-Value,485,1,51.84
+3825886855211,Charlene,charleneylchan@gmail.com,Low-Value,486,1,27.92
+3825670815787,Tashvini,tashvini@gmail.com,Low-Value,486,1,27.92
+3825514905643,Vickie,vickievichelle@gmail.com,Low-Value,486,1,45.92
+3809322434603,Norsuriati ,cupcake_0303@yahoo.com.sg,Low-Value,486,1,80.1
+3825442193451,secheng,lqd.o1201@gmail.com,Low-Value,486,1,38.9
+3825372102699,Janar,janartanii@gmail.com,Low-Value,486,1,27.92
+3825345953835,Jamie,jamiekatrina11@gmail.com,Low-Value,486,1,75.76
+3825310695467,Gladys,gladysyiwei@gmail.com,Low-Value,486,1,28.9
+3825080959019,Loraine,destined_rai@yahoo.com,Low-Value,486,1,27.92
+3824972857387,Snow,snowyblue83@hotmail.com,Low-Value,487,1,51.84
+3824966664235,Zoey,zoeylohhhh@live.com,Low-Value,487,1,27.92
+3823808675883,SISKA,trulysis@yahoo.com.sg,Low-Value,487,1,51.84
+3823850258475,Wendy,wendyyeo83@gmail.com,Low-Value,487,1,27.92
+3823414738987,Jace,minqijace@hotmail.com,Low-Value,487,1,119.6
+3822141964331,Sarah,saraht3123@yahoo.com.sg,Low-Value,487,1,163.72
+3822947139627,Faith,mangorendezvous@gmail.com,Low-Value,488,1,38.9
+3822504214571,Angela ,soulofbionicle@hotmail.com,Low-Value,488,1,159.8
+3821898235947,Jingqi,qiqi82@gmail.com,Low-Value,488,1,83.8
+3821923008555,Vanessa,feelslikedance@hotmail.com,Low-Value,489,1,83.9
+3821256769579,Victoria,vic.1390@gmail.com,Low-Value,489,1,109.9
+3820023840811,Joey,joeyoh78@gmail.com,Low-Value,490,1,119.4
+3819964104747,Niko,nikobananamilk@gmail.com,Low-Value,490,1,129.7
+3819831328811,Jesslin,jesslin1807@gmail.com,Low-Value,490,1,119.5
+3819841781803,Melissa,mellymeltz@hotmail.com,Low-Value,490,1,23.9
+3819625807915,Veronica,roni_tfp@yahoo.com.sg,Low-Value,490,1,100.8
+3817608020011,Mellisa,sephia_love02@hotmail.com,Low-Value,490,1,43.8
+3818835574827,wendy,wendyahui@gmail.com,Low-Value,491,1,49.9
+3818760077355,Lyn,shalynssh@gmail.com,Low-Value,491,1,43.9
+3818620190763,Yiqi,sleepy_me39@hotmail.com,Low-Value,491,1,38.9
+3818558619691,Kareen,kareen19_4@hotmail.com,Low-Value,491,1,43.8
+3817701736491,Phoebe,xinmin86@hotmail.com,Low-Value,492,1,23.9
+3817631842347,Karen,chua.karen85@gmail.com,Low-Value,492,1,43.8
+3817452470315,Weiling,scarletlocks@gmail.com,Low-Value,492,1,23.9
+3817390243883,Jess,jessxw.lee@gmail.com,Low-Value,492,1,23.9
+3815392116779,Kathleen,kathleensim8@yahoo.com.sg,Low-Value,494,1,102.7
+3813004935211,Sara,nefrett@yahoo.com,Low-Value,495,1,33.9
+3812962762795,Lilian,kaiting_90@hotmail.com,Low-Value,495,1,76.9
+3812913381419,Amanda Tay,moleonmycheek@gmail.com,Low-Value,495,1,33.9
+3812013637675,Angeline,msangelineng@gmail.com,Low-Value,496,1,97.8
+3811656597547,Jing Qi,jingqi_hoa@hotmail.com,Low-Value,496,1,43.9
+3810813673515,Ferrine,rink79@yahoo.com,Low-Value,497,1,49.9
+3151966109739,Wong,michellewwt.97@gmail.com,Low-Value,498,1,126.63
+3809245855787,Clarica,claricalooks@gmail.com,Low-Value,498,1,38.9
+3809146994731,Moon,yetmun24@gmail.com,Low-Value,498,1,119.8
+3808349257771,Vali,vali_gk79@yahoo.com.sg,Low-Value,499,1,33.9
+3805148643371,Karen,karenghl@hotmail.com,Low-Value,499,1,83.9
+3801193250859,Julia,princessjulialee@gmail.com,Low-Value,503,1,53.9
+3801164513323,Mandy,mandy_ong93@hotmail.com,Low-Value,503,1,76.8
+3799905140779,Jane,natenaj@gmail.com,Low-Value,504,1,51.84
+3799804543019,zhenru,kohzhenru@gmail.com,Low-Value,504,1,51.84
+3799634640939,Angelia,angelialim_85@hotmail.com,Low-Value,504,1,27.92
+3799615537195,Geok kuang,geokkuang@gmail.com,Low-Value,504,1,67.84
+3799477125163,michelle,michellelee_star@hotmail.com,Low-Value,504,1,60.82
+3797386199083,Jennis,jennis1210@hotmail.com,Low-Value,506,1,73.9
+3786384539691,Samantha,hapi_go_lucky@hotmail.com,Low-Value,509,1,104.9
+3790840365099,Koh,kazumikoh@outlook.jp,Low-Value,509,1,43.9
+3778165571627,kah leong,kku001@e.ntu.edu.sg,Low-Value,515,1,53.9
+3777301610539,Joelle,joelle_ang@yahoo.com,Low-Value,515,1,69.8
+3773877616683,Mui Fong,muifongho@gmail.com,Low-Value,517,1,129.9
+3772666740779,Tse,twmivy@gmail.com,Low-Value,518,1,115.8
+3771074215979,Adeline,adelinenewls@gmail.com,Low-Value,518,1,109.8
+3211079909419,Desiree,ng.desiree@gmail.com,Low-Value,518,1,36.9
+3770101334059,Corinne,corinnechua28@gmail.com,Low-Value,520,1,28.9
+3769862193195,Yumi,yumi.imelda@gmail.com,Low-Value,520,1,36.9
+3749435047979,Jessy,zcliew@gmail.com,Low-Value,524,1,112.8
+3762946048043,Sandy,sandyng_21@yahoo.com.sg,Low-Value,524,1,83.9
+3751695188011,Chiou Ling ,No Email,Low-Value,524,1,0.0
+3120190685227,Daphne,daphneteosl@gmail.com,Low-Value,527,1,153.8
+3207763492907,Adrena,adrena.lim@gmail.com,Low-Value,527,1,53.9
+3748995432491,BingBing,daphnechia82@yahoo.com,Low-Value,528,1,69.8
+3748519051307,Esther,tayaiqi@gmail.com,Low-Value,528,1,36.9
+3213975650347,Ing Chan,clarrietay@yahoo.com,Low-Value,529,1,53.8
+3747161997355,Joanna,joanna_1823@msn.com,Low-Value,529,1,145.9
+3209604431915,Gladys,gladysbeyond@yahoo.com,Low-Value,530,1,36.9
+3126751002667,Tay,happyalene@hotmail.com,Low-Value,532,1,36.9
+3211902091307,Hui Jun,huijuncao@ymail.com,Low-Value,532,1,36.9
+3211029053483,Pratiwi,pratiwing@yahoo.com,Low-Value,532,1,63.88
+3210283810859,Yui Min,wongyuimin@gmail.com,Low-Value,533,1,149.42
+3206643384363,Pei Lin,cpl0250@gmail.com,Low-Value,534,1,149.42
+3207744847915,Jasleen,tomoko2104@hotmail.com,Low-Value,535,1,140.32
+3207611580459,Trudy,trudytan14@gmail.com,Low-Value,535,1,140.32
+3133816733739,alexis,zshuting@hotmail.com,Low-Value,536,1,149.42
+3193490079787,Xingzhi,that.personelle@gmail.com,Low-Value,542,1,80.9
+3192694538283,Lynda,lyndakho87@gmail.com,Low-Value,543,1,63.9
+3189549760555,Adelle,adelleyii_lh1996@live.com,Low-Value,545,1,83.8
+3189198422059,Katherine,yh_summer07@hotmail.com,Low-Value,545,1,152.8
+3189497561131,Baoying,kohashl3y@gmail.com,Low-Value,545,1,39.9
+3187551666219,Koh,kohwenjun13@gmail.com,Low-Value,546,1,73.9
+3180207243307,Soh,sohhueychin@gmail.com,Low-Value,547,1,139.9
+3183962914859,Bernice,bernicecai@gmail.com,Low-Value,548,1,109.8
+3183363588139,Wing Ki,vicky_wingki@hotmail.com,Low-Value,548,1,107.8
+3180628770859,Ying,yinghueysoh@gmail.com,Low-Value,550,1,109.9
+3125418098731,Juliana,juliepuppy_99@yahoo.com,Low-Value,550,1,89.9
+3180178014251,Jacky,jackychiazw@gmail.com,Low-Value,550,1,133.9
+3178158719019,Priscilla,priscilla_1309@hotmail.com,Low-Value,551,1,49.9
+3172063412267,Kit,kitchoy@gmail.com,Low-Value,555,1,53.9
+3171407593515,Chee,fengping8821@gmail.com,Low-Value,555,1,164.6
+3169970815019,Felicia,feliciagyh@gmail.com,Low-Value,556,1,133.82
+3165044441131,Sock Kian,pawfully@hotmail.com,Low-Value,558,1,39.9
+3162911932459,Dawn,dawnchuash@gmail.com,Low-Value,559,1,46.9
+3158542385195,Lynette ,jesslee85@hotmail.com,Low-Value,559,1,43.9
+3160395939883,Trassie,trassieyann_86@hotmail.com,Low-Value,560,1,109.8
+3160536154155,Shirley,windylimsh@gmail.com,Low-Value,561,1,49.9
+3158973415467,Tiffany,tiffanyhongkaili99@gmail.com,Low-Value,562,1,49.9
+3155134283819,Jymie,jymie.ng@gmail.com,Low-Value,564,1,63.9
+3152037150763,Crystal,crystalhgm@hotmail.com,Low-Value,566,1,18.4
+3151293579307,Azlina,mybananaz@gmail.com,Low-Value,566,1,136.08
+3151442313259,Yvette,yyvette@gmail.com,Low-Value,566,1,35.92
+3151823503403,Saeiyah,saeiyahmauri@gmail.com,Low-Value,566,1,27.92
+3151468527659,Zoe,zoeleo94@yahoo.com,Low-Value,566,1,64.64
+3151390277675,Shuting,melodyfair33@gmail.com,Low-Value,566,1,59.92
+3137569390635,Joanne,joannejiaqi@gmail.com,Low-Value,566,1,31.92
+3151200780331,Ping Ting,pingting87@gmail.com,Low-Value,566,1,27.92
+3151191408683,Hui Lin,huilin89@gmail.com,Low-Value,566,1,99.84
+3151109259307,Teresa,ashleereno@gmail.com,Low-Value,566,1,55.92
+3151074852907,Chiau Ling,lynn_368@yahoo.com,Low-Value,566,1,40.72
+3151004041259,geraldine,gerlimmh@hotmail.com,Low-Value,566,1,63.8
+3150961442859,Fang,lwinxoxo@outlook.com,Low-Value,566,1,87.12
+3150720827435,Edwina,e.poh1608@hotmail.com,Low-Value,567,1,43.92
+3149983711275,Cecilia,hlia85@yahoo.com.sg,Low-Value,567,1,57.82
+3149924401195,Zeyan,platoquak@gmail.com,Low-Value,567,1,124.82
+3116010766379,Evonne,vonified@gmail.com,Low-Value,567,1,38.32
+3149705412651,Nora,norazee@yahoo.com,Low-Value,567,1,43.9
+3149692534827,Jenny,jenny.ngzn@gmail.com,Low-Value,567,1,59.84
+3149565296683,SHU,wongshutianretail@gmail.com,Low-Value,567,1,55.92
+3149558054955,Kim,mimoet02@gmail.com,Low-Value,567,1,59.92
+3149544587307,Kalyn,kalyntan19@gmail.com,Low-Value,567,1,99.84
+3149416497195,Valerie,vannhor@hotmail.com,Low-Value,567,1,38.32
+3148468682795,Janis,janis_chee@yahoo.com.sg,Low-Value,568,1,68.8
+3148020580395,Charmaine,joycefwu@hotmail.com,Low-Value,568,1,40.72
+3148752879659,Kelly,kel.cheong@gmail.com,Low-Value,568,1,107.76
+3140635721771,Vanessa,vanessaleehx@gmail.com,Low-Value,568,1,43.92
+3148380176427,Rei,lockheart.rei@gmail.com,Low-Value,568,1,139.84
+3143810285611,Ashley,tay-eeqing@hotmail.com,Low-Value,568,1,86.22
+3148264374315,Jenny,tsuma_jen@hotmail.com,Low-Value,568,1,27.92
+3147362762795,Wendy,wendi22@gmail.com,Low-Value,568,1,38.32
+3147425513515,Zoe,chaiying1987@hotmail.com,Low-Value,569,1,51.9
+3147309547563,Estrella,estrellaleepk@gmail.com,Low-Value,569,1,115.36
+3147256561707,Josephine,bimorphia@hotmail.com,Low-Value,569,1,73.22
+3146949394475,Penny,penny.niko@gmail.com,Low-Value,569,1,75.76
+3063975641131,Stella,ledolido@hotmail.com,Low-Value,569,1,83.12
+3146857938987,J,jongsy@yahoo.com,Low-Value,569,1,94.24
+3146484219947,Stevana,stevanawong@gmail.com,Low-Value,569,1,27.92
+3146525048875,Gladys,gladysleong5@yahoo.com.sg,Low-Value,569,1,110.24
+3143874117675,Shanna,ruishanzhang@hotmail.com,Low-Value,571,1,38.9
+3143793705003,Kwok ling,spacecadetx@gmail.com,Low-Value,571,1,33.9
+3143357923371,Belinda,bel.teohuiyun@gmail.com,Low-Value,571,1,51.9
+3142318587947,Madeline,lupeifang@gmail.com,Low-Value,572,1,33.9
+3142289752107,Qihui,jessicafuqihui@hotmail.com,Low-Value,572,1,34.0
+3141762285611,Evelyn,evelynpoh98@hotmail.com,Low-Value,573,1,23.9
+3140879089707,Kyo,anglq95@gmail.com,Low-Value,573,1,34.0
+3140664852523,Gail,gaileykoh1988@gmail.com,Low-Value,573,1,34.0
+3140577755179,Natasha,mether3al@gmail.com,Low-Value,573,1,46.9
+3138346090539,Iwanami,jas_shun@yahoo.co.jp,Low-Value,574,1,99.9
+3137184792619,Kacey,kaiyan91@hotmail.com,Low-Value,575,1,101.8
+3060959805483,Macy,simmeixi@gmail.com,Low-Value,575,1,112.8
+3135251480619,Farzana,usaimah85@gmail.com,Low-Value,576,1,95.8
+3133665148971,ZY,zeeyinlim@hotmail.com,Low-Value,577,1,35.9
+3133506617387,Pearl,milkkpearltea@hotmail.com,Low-Value,577,1,79.8
+3133543448619,Michelle,kryptonite_infusion@yahoo.co.uk,Low-Value,577,1,102.8
+3132424945707,Joyce,joycehoi004@gmail.com,Low-Value,578,1,59.0
+3132228730923,Felicia,exquisitelymade@hotmail.com,Low-Value,578,1,39.9
+3130631880747,Joyce,jolylce@gmail.com,Low-Value,578,1,39.9
+3132103360555,Catherine,catherinetan84@gmail.com,Low-Value,578,1,59.0
+3132045262891,YU TING,yuting81191@gmail.com,Low-Value,578,1,49.9
+3128684806187,Jessica,linyen@gmail.com,Low-Value,580,1,73.9
+3126850879531,Vanessa,vanessacjq88@hotmail.com,Low-Value,581,1,134.8
+3126631235627,Jaya,jiahuang12@gmail.com,Low-Value,581,1,129.0
+3125528035371,WAI SHEE,waishee@hotmail.com,Low-Value,582,1,51.9
+3122288001067,Joeann,joanne08@hotmail.com,Low-Value,583,1,93.0
+3122715820075,Rachel,fitfit76@gmail.com,Low-Value,583,1,112.8
+3123755450411,Sabrina,sabrina.wirawan@gmail.com,Low-Value,583,1,33.9
+3045247483947,stephanie,kwekkl12@hotmail.com,Low-Value,583,1,0.0
+3121779179563,Sheila,teosheila@gmail.com,Low-Value,584,1,58.9
+3118852800555,Chow,chowsk68@gmail.com,Low-Value,586,1,49.9
+3118833238059,Veronica,fransveronica@yahoo.com.sg,Low-Value,586,1,159.6
+3110989561899,Rebekah,reebeekah.316@gmail.com,Low-Value,586,1,46.9
+3116078039083,Kellen,kellen_ng@hotmail.com,Low-Value,586,1,139.8
+3117196804139,Wendy,w3ndyong@yahoo.com.sg,Low-Value,587,1,64.9
+3114559176747,Shandi,shandi.tng90@gmail.com,Low-Value,589,1,46.9
+3113909420075,Jan,wenling_mak@hotmail.com,Low-Value,589,1,143.9
+3112575238187,Lim,llaybeng@yahoo.com.sg,Low-Value,590,1,101.7
+3112490696747,Jessica,canwinmummy@gmail.com,Low-Value,590,1,142.3
+3102967169067,Dewi,dewihere@gmail.com,Low-Value,590,1,22.0
+3110762741803,Elaine,hahapapaya@gmail.com,Low-Value,591,1,144.8
+3110754877483,Jolene,huimin84@hotmail.com,Low-Value,591,1,46.9
+3110597787691,Kiah Yin,kiahyin_ng@yahoo.com,Low-Value,591,1,59.9
+3106287812651,JOVEE,writetojovee@gmail.com,Low-Value,591,1,147.8
+3106698952747,Yap,m.tong0323@gmail.com,Low-Value,593,1,46.9
+3104809779243,Marion,winterz_86@hotmail.com,Low-Value,594,1,49.9
+3101396467755,Adeline,adelinetang35@hotmail.com,Low-Value,596,1,53.9
+3099573125163,Yenny,isaacp87@yahoo.com,Low-Value,597,1,43.9
+3099451490347,Dionne,dionnehowenxuan@gmail.com,Low-Value,597,1,63.9
+3098821984299,Eugenia,eugenialeewen.dynp@gmail.com,Low-Value,598,1,46.9
+3098290421803,Jia Yi,jiayi93@hotmail.com,Low-Value,598,1,28.9
+3097476726827,Sherlyn,sherlynle@yahoo.com,Low-Value,598,1,73.9
+3094449389611,Michelle,michelle.foohh@gmail.com,Low-Value,600,1,49.9
+3092279394347,Lay Kheng,tan.laykheng78@gmail.com,Low-Value,601,1,33.9
+3091509542955,SARAH,yangshanli@gmail.com,Low-Value,601,1,83.9
+3091201458219,Cheryl,cheryl_emerald@live.com,Low-Value,602,1,89.8
+3089819238443,Pearlyn,pearlynlimmm@gmail.com,Low-Value,603,1,73.9
+3088956981291,Sim,simhqing@gmail.com,Low-Value,603,1,76.9
+3088902094891,Grace,grace.t86@hotmail.com,Low-Value,603,1,33.9
+3088089907243,Jaslyn,woondrland@gmail.com,Low-Value,604,1,73.9
+3087895756843,Cindy,cinderella.ramos25@gmail.com,Low-Value,604,1,76.9
+3085187186731,Serene,sereneohw@gmail.com,Low-Value,604,1,49.9
+3061175648299,Sayida,sayida.s@gmail.com,Low-Value,604,1,78.9
+3087474622507,TM,Ask.mymelody@gmail.com,Low-Value,604,1,73.9
+3083589320747,verriona,verrionadesigns@gmail.com,Low-Value,606,1,49.9
+3081400352811,Ee Ling,eeling89@gmail.com,Low-Value,607,1,46.9
+3080799944747,June,chuage03@yahoo.com.sg,Low-Value,607,1,49.9
+3080043364395,Willy,anggono.willy@live.com,Low-Value,607,1,89.9
+3078297780267,Audrey,audrey_chanel@hotmail.com,Low-Value,608,1,143.8
+3076555866155,Geraldine,gerichew07@hotmail.com,Low-Value,609,1,33.9
+3076499472427,Alicia,errrlicia@gmail.com,Low-Value,609,1,73.0
+3071074369579,Ting Jia,tingjia95@gmail.com,Low-Value,612,1,99.0
+3070953029675,Stella,milo_me@hotmail.com,Low-Value,612,1,76.9
+3070808424491,Winn,laypengchng@gmail.com,Low-Value,612,1,133.6
+3070697701419,Ebon,ebonghor@hotmail.com,Low-Value,613,1,89.9
+3069725671467,Esther,elfire33@hotmail.com,Low-Value,613,1,114.7
+3069628055595,Charing,charingang@gmail.com,Low-Value,613,1,73.0
+3069516709931,Connie,faithpig183@gmail.com,Low-Value,613,1,33.9
+3068189081643,Hazel,conte5tsing@yahoo.com.sg,Low-Value,614,1,83.8
+3068013215787,Laura,laura.lin.fuwei@gmail.com,Low-Value,614,1,168.9
+3068079112235,Aisha,chomotmeow@gmail.com,Low-Value,614,1,29.9
+3064279138347,yenny,tany0169@gmail.com,Low-Value,616,1,149.9
+3062916415531,Xinwei,xinwei.cai@gmail.com,Low-Value,617,1,76.9
+3061391523883,Raden,r-syvhirvhh@hotmail.com,Low-Value,618,1,46.9
+3060917796907,stephanie,stephanietng89@hotmail.com,Low-Value,618,1,53.4
+3059741098027,Orry,orries@gmail.com,Low-Value,619,1,89.4
+3059676348459,Jane,joan.lim@live.com,Low-Value,619,1,76.4
+3059663503403,Jessey,magfreak@gmail.com,Low-Value,619,1,76.4
+3059642892331,Priscilla,psimshy@gmail.com,Low-Value,619,1,92.5
+3057235591211,Pei Ling,peiling.ng.1@gmail.com,Low-Value,619,1,166.3
+3059271172139,Nicole,tannicole@hotmail.com,Low-Value,619,1,103.4
+3058054594603,Jolin,jolin_sei@yahoo.com,Low-Value,619,1,46.4
+3057572085803,Ayu,rahayuar@gmail.com,Low-Value,620,1,72.5
+3053913899051,Binte,norida.haron@gmail.com,Low-Value,622,1,46.4
+3049133244459,Madeleine,maddiesteo@gmail.com,Low-Value,625,1,69.3
